@@ -1,0 +1,1524 @@
+Gene	Sample.ID	Protein.Change	Cancer.Type	Mutation.Type	Data.Source	Protein.Position
+CCND1	M015	Y44D	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	44
+CCND1	M009	Y44D	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	44
+CCND1	P-0005139-T01-IM5	Y44D	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	44
+CCND1	M018	C47S	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	47
+CCND1	M002	C47S	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	47
+CCND1	M004	Y44H	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	44
+CCND1	M011	Y44S	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	44
+CCND1	M003	Y44C	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	44
+CCND1	P-0011204-T01-IM5	K46_C47delinsNG	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	46
+CCND1	P-0000396-T01-IM3	P287L	Oropharynx Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	ME024	P287L	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0001248-T01-IM3	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	P-0005364-T01-IM5	T286I	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	P-0006849-T01-IM5	T286I	Uterine Undifferentiated Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	P-0009518-T01-IM5	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	P-0010310-T01-IM5	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	TCGA-B5-A0JV-01	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	TCGA-BG-A0M7-01	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	TCGA-D1-A0ZO-01	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	TCGA-D1-A163-01	T286I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	P-0001821-T01-IM3	P287S	Uterine Epithelioid Leiomyosarcoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0005455-T01-IM5	P287S	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0011569-T01-IM5	P287S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	TCGA-D1-A0ZU-01	P287S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	TCGA-D1-A17D-01	P287S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0003767-T01-IM5	P287A	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0008350-T02-IM5	E9D	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	9
+CCND1	P-0011446-T01-IM5	T286A	Mucinous Adenocarcinoma of the Colon and Rectum	Missense_Mutation	Cbioportal and COSMIC	286
+CCND1	TCGA-JW-A5VH-01	P287T	Cervical Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0003054-T02-IM5	E9K	Invasive Breast Carcinoma	Missense_Mutation	Cbioportal and COSMIC	9
+CCND1	TCGA-D1-A174-01	P287H	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND1	P-0002715-T01-IM3	S41L	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	41
+CCND1	TCGA-BT-A20J-01	S41L	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	41
+CCND1	TCGA-XF-A8HI-01	S41L	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	41
+CCND1	M027	V42E	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	42
+CCND1	M021	K46E	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	46
+CCND1	M027	S41T	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	41
+CCND1	P-0012058-T01-IM5	E275*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	275
+CCND1	TCGA-AX-A062-01	E275*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	275
+CCND1	P-0000148-T01-IM3	Q261*	Low-Grade Serous Ovarian Cancer	Nonsense_Mutation	Cbioportal and COSMIC	261
+CCND1	P-0000069-T01-IM3	E279*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	279
+CCND1	P-0004495-T01-IM5	E279*	Lung Squamous Cell Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	279
+CCND1	P-0003765-T01-IM5	Q264*	Angiosarcoma	Nonsense_Mutation	Cbioportal and COSMIC	264
+CCND1	P-0005285-T01-IM5	D289del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal and COSMIC	289
+CCND1	P-0005285-T02-IM5	D289del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal and COSMIC	289
+CCND1	P-0008646-T01-IM5	V293del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal and COSMIC	293
+CCND1	P-0012152-T01-IM5	L283_D294del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal and COSMIC	283
+CCND1	TCGA-G4-6588-01	E273*	Colon Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	273
+CCND1	TCGA-BS-A0TJ-01	R291dup	Uterine Endometrioid Carcinoma	In_Frame_Ins	Cbioportal and COSMIC	291
+CCND1	TCGA-BH-A0BP-01	R260C	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	260
+CCND1	587222	R260C	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	260
+CCND1	ME049	A270T	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	270
+CCND1	TCGA-BR-4363-01	A271T	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	271
+CCND1	LUAD_E00565	E76K	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	76
+CCND1	TCGA-67-3771-01	D25A	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	25
+CCND1	TCGA-AP-A0LM-01	E135D	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	135
+CCND1	P-0009311-T01-IM5	F232L	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	232
+CCND1	TCGA-AX-A05Z-01	F232L	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	232
+CCND1	TCGA-AX-A063-01	D240N	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	240
+CCND1	P-0012397-T01-IM5	A171V	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	171
+CCND1	TCGA-AX-A0J0-01	A171V	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	171
+CCND1	TCGA-BG-A0MQ-01	L244I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	244
+CCND1	TCGA-BS-A0U5-01	V293G	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	293
+CCND1	TCGA-34-2608-01	E162K	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	162
+CCND1	P-0000600-T01-IM3	N198S	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	198
+CCND1	P-0000912-T01-IM3	K194R	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	194
+CCND1	P-0001412-T01-IM3	K114del	Anaplastic Oligodendroglioma	In_Frame_Del	Cbioportal and COSMIC	114
+CCND1	P-0001685-T01-IM3	D292G	Rectal Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	292
+CCND1	P-0004011-T01-IM5	K50del	Colon Adenocarcinoma	In_Frame_Del	Cbioportal and COSMIC	50
+CCND1	P-0009223-T01-IM5	V67L	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	67
+CCND1	P-0000225-T01-IM3	I161V	Esophageal Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	161
+CCND1	P-0007487-T01-IM5	R133L	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	133
+CCND1	P-0003433-T01-IM5	D129N	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	129
+CCND1	TCGA-DA-A1IC-06	E36K	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	36
+CCND1	TCGA-4Z-AA7W-01	P199S	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	199
+CCND1	P-0000230-T01-IM3	N24S	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Missense_Mutation	Cbioportal and COSMIC	24
+CCND1	P-0007987-T01-IM5	K112Rfs*2	Breast Invasive Ductal Carcinoma	Frame_Shift_Del	Cbioportal and COSMIC	112
+CCND1	P-0008444-T01-IM5	V290Afs*66	Uterine Endometrioid Carcinoma	Frame_Shift_Ins	Cbioportal and COSMIC	290
+CCND1	P-0008646-T01-IM5	T12I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	12
+CCND1	P-0010822-T01-IM5	K112N	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	112
+CCND1	P-0001312-T01-IM3	C189_A190delinsWH	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	189
+CCND1	P-0010947-T01-IM5	E51K	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	51
+CCND1	P-0010947-T01-IM5	E51K	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	51
+CCND1	P-0011204-T01-IM5	K50R	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	50
+CCND1	RMS2032	R179H	Rhabdomyosarcoma	Missense_Mutation	Cbioportal and COSMIC	179
+CCND1	CSCC-16-T	S201F	Cutaneous Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	201
+CCND1	M022	V290G	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	290
+CCND1	M004	Y44*	Mantle Cell Lymphoma	Nonsense_Mutation	Cbioportal and COSMIC	44
+CCND1	P-0001042-T01-IM3	A182V	Cutaneous Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	182
+CCND1	P-0001526-T01-IM3	E76del	Pancreatic Neuroendocrine Tumor	In_Frame_Del	Cbioportal and COSMIC	76
+CCND1	P-0002709-T01-IM3	A39S	Large Cell Lung Carcinoma	Missense_Mutation	Cbioportal and COSMIC	39
+CCND1	P-0004065-T01-IM5	W150C	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	150
+CCND1	P-0004065-T01-IM5	P157S	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	157
+CCND1	P-0004497-T01-IM5	E36Q	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	36
+CCND1	P-0004497-T02-IM5	E36Q	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	36
+CCND1	P-0004829-T01-IM5	R133Q	High-Grade Serous Ovarian Cancer	Missense_Mutation	Cbioportal and COSMIC	133
+CCND1	P-0004825-T01-IM5	P199R	Mantle Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	199
+CCND1	P-0005543-T02-IM5	M64I	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	64
+CCND1	P-0006926-T02-IM5	I13M	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	13
+CCND1	P-0010805-T01-IM5	M113I	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	113
+CCND1	P-0010894-T01-IM5	W150C	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	150
+CCND1	P-0012358-T01-IM5	S55F	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	55
+CCND1	P-0012241-T02-IM5	E276V	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	276
+CCND1	P-0007568-T01-IM5	P169A	Anaplastic Large Cell Lymphoma	Missense_Mutation	Cbioportal and COSMIC	169
+CCND1	GC_306T-GC_306N	C125*	Stomach Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	125
+CCND1	TCGA-49-6742-01	E172K	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	172
+CCND1	TCGA-BS-A0TA-01	S166Y	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	166
+CCND1	587330	L233F	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	233
+CCND1	587342	A187T	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	187
+CCND2	ESO-184	G268*	Esophageal Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	268
+CCND2	TCGA-76-4928-01	P198R	Glioblastoma Multiforme	Missense_Mutation	Cbioportal and COSMIC	198
+CCND2	YUDEXA	G268E	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	268
+CCND2	TCGA-EE-A2GC-06	G268E	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	268
+CCND2	YUFARCI	S200L	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	200
+CCND2	TCGA-DA-A3F3-06	S200L	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	200
+CCND2	P-0002718-T01-IM3	L255F	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	255
+CCND2	YURUS	L255F	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	255
+CCND2	P-0010115-T01-IM5	E140K	Melanoma of Unknown Primary	Missense_Mutation	Cbioportal and COSMIC	140
+CCND2	YUZINO	E140K	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	140
+CCND2	pfg092T	R165H	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	165
+CCND2	P-0006953-T01-IM5	R165H	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	165
+CCND2	TCGA-BR-8361-01	S175F	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	175
+CCND2	TCGA-BR-A4J8-01	S175F	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	175
+CCND2	TCGA-BR-8381-01	Q249H	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	249
+CCND2	LUAD-B01145	R22Q	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	22
+CCND2	LUAD-B02515	D158Y	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	158
+CCND2	TCGA-55-7907-01	C72*	Lung Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	72
+CCND2	TCGA-AP-A051-01	N82H	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	82
+CCND2	TCGA-AP-A0LG-01	Y261*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	261
+CCND2	TCGA-AP-A0LM-01	P94L	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	94
+CCND2	TCGA-AP-A0LM-01	X137_splice	Uterine Endometrioid Carcinoma	Splice_Site	Cbioportal and COSMIC	137
+CCND2	TCGA-AP-A0LM-01	A203T	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	203
+CCND2	TCGA-DK-A6B2-01	R285W	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	285
+CCND2	TCGA-AP-A0LM-01	R285W	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	285
+CCND2	TCGA-AX-A0J1-01	I51S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	51
+CCND2	TCGA-BS-A0UF-01	A195V	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	195
+CCND2	TCGA-D1-A17Q-01	X191_splice	Uterine Endometrioid Carcinoma	Splice_Site	Cbioportal and COSMIC	191
+CCND2	TCGA-CZ-5465-01	S110C	Renal Clear Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	110
+CCND2	TCGA-66-2780-01	Q40H	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	40
+CCND2	P-0001238-T01-IM3	T280I	Glioblastoma Multiforme	Missense_Mutation	Cbioportal and COSMIC	280
+CCND2	P-0009499-T01-IM5	E248K	Anaplastic Astrocytoma	Missense_Mutation	Cbioportal and COSMIC	248
+CCND2	TCGA-FR-A3YO-06	E248K	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	248
+CCND2	TCGA-AN-A0AK-01	A186T	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	186
+CCND2	P-0007296-T01-IM5	T32I	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	32
+CCND2	P-0004362-T01-IM5	S96T	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	96
+CCND2	P-0000491-T01-IM3	V47M	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	47
+CCND2	P-0002671-T01-IM3	L30M	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	30
+CCND2	P-0001583-T01-IM3	D158N	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	158
+CCND2	P-0000681-T01-IM3	I211F	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	211
+CCND2	P-0000681-T02-IM5	I211F	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	211
+CCND2	P-0002156-T01-IM3	E34D	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	34
+CCND2	P-0001808-T01-IM3	S271L	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	271
+CCND2	P-0009741-T01-IM5	S271*	Colon Adenocarcinoma	Frame_Shift_Del	Cbioportal and COSMIC	271
+CCND2	P-0009400-T01-IM5	*290Cext*13	Esophageal Adenocarcinoma	Nonstop_Mutation	Cbioportal and COSMIC	290
+CCND2	TCGA-E9-A5FL-01	R165C	Metaplastic Breast Cancer	Missense_Mutation	Cbioportal and COSMIC	165
+CCND2	MD-057	P281S	Medulloblastoma	Missense_Mutation	Cbioportal and COSMIC	281
+CCND2	TARGET-20-PALGKX-09	P281S	Acute Myeloid Leukemia	Missense_Mutation	Cbioportal and COSMIC	281
+CCND2	585208	L187M	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	187
+CCND2	MO_1176	Q249K	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	249
+CCND2	P-0002252-T01-IM3	K270M	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	270
+CCND2	P-0004755-T01-IM5	P156A	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	156
+CCND2	P-0008325-T01-IM5	V284E	Rhabdomyosarcoma	Missense_Mutation	Cbioportal and COSMIC	284
+CCND2	TARGET-20-PANJGR-09	V284E	Acute Myeloid Leukemia	Missense_Mutation	Cbioportal and COSMIC	284
+CCND2	TCGA-D3-A3MO-06	C124Y	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	124
+CCND2	TCGA-D3-A5GO-06	D273N	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	273
+CCND2	TCGA-FW-A3R5-06	X138_splice	Cutaneous Melanoma	Splice_Site	Cbioportal and COSMIC	138
+CCND2	TCGA-27-2518-01	Q260*	Glioblastoma Multiforme	Nonsense_Mutation	Cbioportal and COSMIC	260
+CCND2	TCGA-CC-A123-01	N19K	Hepatocellular Carcinoma	Missense_Mutation	Cbioportal and COSMIC	19
+CCND2	CSCC-56-T	P281L	Cutaneous Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	281
+CCND2	TARGET-20-PASHBI-09	Q277*	Acute Myeloid Leukemia	Nonsense_Mutation	Cbioportal and COSMIC	277
+CCND2	P-0000190-T01-IM3	E2K	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	2
+CCND2	P-0006090-T01-IM5	E2K	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	2
+CCND2	P-0004180-T01-IM5	C188S	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	188
+CCND2	P-0010245-T01-IM5	R178C	Breast Invasive Lobular Carcinoma	Missense_Mutation	Cbioportal and COSMIC	178
+CCND2	P-0000222-T01-IM3	E230Q	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	230
+CCND2	P-0002480-T01-IM3	L112V	Seminoma	Missense_Mutation	Cbioportal and COSMIC	112
+CCND2	P-0003555-T01-IM5	Q215R	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	215
+CCND2	P-0003795-T01-IM5	D239E	Intrahepatic Cholangiocarcinoma	Missense_Mutation	Cbioportal and COSMIC	239
+CCND2	P-0004203-T01-IM5	P78L	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	78
+CCND2	P-0005021-T01-IM5	F87L	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	87
+CCND2	S02378	K234M	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	234
+CCND2	ESO-720	D24N	Esophageal Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	24
+CCND2	TARGET-20-PAPWHS-09	T280N	Acute Myeloid Leukemia	Missense_Mutation	Cbioportal and COSMIC	280
+CCND2	LUAD-CHTN-Z4716A	Q70K	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	70
+CCND2	P-0001937-T01-IM3	C246Y	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	246
+CCND2	P-0003529-T01-IM5	R86C	Glioblastoma Multiforme	Missense_Mutation	Cbioportal and COSMIC	86
+CCND2	P-0004092-T01-IM5	P78S	Merkel Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	78
+CCND2	P-0004731-T01-IM5	P117S	Uterine Leiomyosarcoma	Missense_Mutation	Cbioportal and COSMIC	117
+CCND2	P-0005127-T02-IM5	E135K	Cancer of Unknown Primary	Missense_Mutation	Cbioportal and COSMIC	135
+CCND2	P-0005127-T01-IM5	E135K	Cancer of Unknown Primary	Missense_Mutation	Cbioportal and COSMIC	135
+CCND2	P-0006511-T01-IM5	K111Q	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	111
+CCND2	P-0007176-T01-IM5	V91F	Myxofibrosarcoma	Missense_Mutation	Cbioportal and COSMIC	91
+CCND2	P-0007229-T01-IM5	S206N	Neuroendocrine Carcinoma, NOS	Missense_Mutation	Cbioportal and COSMIC	206
+CCND2	P-0007229-T01-IM5	D283E	Neuroendocrine Carcinoma, NOS	Missense_Mutation	Cbioportal and COSMIC	283
+CCND2	P-0008035-T01-IM5	E75del	Low-Grade Glioma, NOS	In_Frame_Del	Cbioportal and COSMIC	75
+CCND2	P-0008754-T01-IM5	R266C	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	266
+CCND2	P-0009010-T01-IM5	R262C	Unclassified Renal Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	262
+CCND2	P-0009601-T01-IM5	E68A	High-Grade Serous Ovarian Cancer	Missense_Mutation	Cbioportal and COSMIC	68
+CCND2	P-0010107-T01-IM5	L164Rfs*29	Yolk Sac Tumor	Frame_Shift_Del	Cbioportal and COSMIC	164
+CCND2	P-0010107-T01-IM5	P168Ifs*23	Yolk Sac Tumor	Frame_Shift_Del	Cbioportal and COSMIC	168
+CCND2	P-0010923-T01-IM5	P281N	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	281
+CCND2	P-0012241-T02-IM5	E34Q	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	34
+CCND2	P-0012201-T01-IM5	L31V	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal and COSMIC	31
+CCND2	PDA_104	Y54*	Pancreatic Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	54
+CCND2	HN_62505	V11I	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	11
+CCND2	MBC_74	A203V	Invasive Breast Carcinoma	Missense_Mutation	Cbioportal and COSMIC	203
+CCND2	134427	A186G	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	186
+CCND2	585258	C225S	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	225
+CCND2	TARGET-10-PARJSR-09	L289P	B-Lymphoblastic Leukemia/Lymphoma	Missense_Mutation	Cbioportal and COSMIC	289
+CCND3	P-0007821-T02-IM5	I290K	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal and COSMIC	290
+CCND3	P-0008847-T01-IM5	I290K	Mature B-Cell Neoplasms	Missense_Mutation	Cbioportal and COSMIC	290
+CCND3	4125240	I290K	Non-Hodgkin Lymphoma	Missense_Mutation	Cbioportal and COSMIC	290
+CCND3	4127766	I290K	Non-Hodgkin Lymphoma	Missense_Mutation	Cbioportal and COSMIC	290
+CCND3	P-0008545-T01-IM5	I290R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal and COSMIC	290
+CCND3	ESO-0025	Q276*	Esophageal Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	276
+CCND3	P-0004885-T01-IM5	Q276*	Gastrointestinal Neuroendocrine Tumors	Nonsense_Mutation	Cbioportal and COSMIC	276
+CCND3	NU-DHL-1	P284S	Germinal Center B-Cell Type	Missense_Mutation	Cbioportal and COSMIC	284
+CCND3	P-0000293-T01-IM3	T283I	Basal Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	283
+CCND3	OCI-Ly7	T283A	Germinal Center B-Cell Type	Missense_Mutation	Cbioportal and COSMIC	283
+CCND3	4194218	P284L	Non-Hodgkin Lymphoma	Missense_Mutation	Cbioportal and COSMIC	284
+CCND3	4189998	A289Pfs*32	Non-Hodgkin Lymphoma	Frame_Shift_Del	Cbioportal and COSMIC	289
+CCND3	TCGA-D8-A145-01	V105D	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	105
+CCND3	TCGA-55-6968-01	Q260E	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	260
+CCND3	B37	S259A	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	259
+CCND3	P-0005606-T01-IM5	Q260*	Bladder Urothelial Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	260
+CCND3	TCGA-FD-A3SN-01	Q260*	Bladder Urothelial Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	260
+CCND3	MBC_45	Q260*	Invasive Breast Carcinoma	Nonsense_Mutation	Cbioportal and COSMIC	260
+CCND3	P-0004379-T01-IM5	R241Q	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	241
+CCND3	TCGA-BR-4362-01	R241Q	Stomach Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	241
+CCND3	TCGA-B5-A11E-01	D192Y	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	192
+CCND3	TCGA-D1-A103-01	E115K	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	115
+CCND3	TCGA-D1-A163-01	V287I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	287
+CCND3	TCGA-D1-A167-01	R241W	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	241
+CCND3	TCGA-DK-A2I6-01	E75D	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	75
+CCND3	TCGA-G2-A2EF-01	I126M	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	126
+CCND3	TCGA-21-5782-01	T261S	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	261
+CCND3	TCGA-E2-A1IE-01	P278R	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal and COSMIC	278
+CCND3	TCGA-KK-A6E4-01	R135L	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	135
+CCND3	P-0005443-T01-IM5	A217T	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	217
+CCND3	P-0002671-T01-IM3	G277W	Colon Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	277
+CCND3	P-0009532-T01-IM5	C6*	Lung Adenocarcinoma	Nonsense_Mutation	Cbioportal and COSMIC	6
+CCND3	P-0008389-T01-IM5	R95Q	Papillary Thyroid Cancer	Missense_Mutation	Cbioportal and COSMIC	95
+CCND3	P-0004495-T01-IM5	D18N	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	18
+CCND3	P-0005724-T01-IM5	R271Pfs*53	Diffuse Large B-Cell Lymphoma, NOS	Frame_Shift_Ins	Cbioportal and COSMIC	271
+CCND3	P-0008226-T02-IM5	R271Pfs*53	Rectal Adenocarcinoma	Frame_Shift_Ins	Cbioportal and COSMIC	271
+CCND3	P-0012194-T01-IM5	R271Pfs*53	Cutaneous Melanoma	Frame_Shift_Ins	Cbioportal and COSMIC	271
+CCND3	P-0006714-T01-IM5	E236K	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	236
+CCND3	TCGA-FS-A1ZK-06	S43F	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	43
+CCND3	TCGA-EE-A3AG-06	D223N	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	223
+CCND3	TCGA-DK-A6B2-01	CCND3-TRERF1	Bladder Urothelial Carcinoma	Fusion	Cbioportal and COSMIC	3
+CCND3	P-0012129-T01-IM5	R14W	Cutaneous Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	14
+CCND3	P-0007918-T01-IM5	R256K	Cutaneous Melanoma	Missense_Mutation	Cbioportal and COSMIC	256
+CCND3	OCI-Ly19	A289P	Germinal Center B-Cell Type	Missense_Mutation	Cbioportal and COSMIC	289
+CCND3	S00941	P171A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	171
+CCND3	P-0002615-T02-IM5	R174Q	Renal Clear Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	174
+CCND3	P-0005262-T01-IM5	K268E	Small Bowel Well-Differentiated Neuroendocrine Tumor	Missense_Mutation	Cbioportal and COSMIC	268
+CCND3	P-0005918-T01-IM5	L137V	Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma	Missense_Mutation	Cbioportal and COSMIC	137
+CCND3	P-0007319-T01-IM5	D159N	Basaloid Penile Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	159
+CCND3	P-0007319-T01-IM5	G8D	Basaloid Penile Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	8
+CCND3	P-0009417-T01-IM5	P134A	Cancer of Unknown Primary	Missense_Mutation	Cbioportal and COSMIC	134
+CCND3	P-0009948-T01-IM5	R14L	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	14
+CCND3	P-0009948-T02-IM5	R14L	Lung Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	14
+CCND3	P-0002265-T02-IM5	E224K	Glioblastoma Multiforme	Missense_Mutation	Cbioportal and COSMIC	224
+CCND3	P-0011334-T01-IM5	R114L	Poorly Differentiated Non-Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	114
+CCND3	P-0011334-T02-IM5	R114L	Poorly Differentiated Non-Small Cell Lung Cancer	Missense_Mutation	Cbioportal and COSMIC	114
+CCND3	P-0012093-T01-IM5	I52M	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal and COSMIC	52
+CCND3	P-0012397-T01-IM5	V92I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	92
+CCND3	P-0008299-T02-IM5	D286_T288del	Diffuse Large B-Cell Lymphoma, NOS	In_Frame_Del	Cbioportal and COSMIC	286
+CCND3	P-0008299-T01-IM5	D286_T288del	Diffuse Large B-Cell Lymphoma, NOS	In_Frame_Del	Cbioportal and COSMIC	286
+CCND3	PDA_001	R33C	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal and COSMIC	33
+CCND3	TCGA-DK-A2I6-01	P265T	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal and COSMIC	265
+CCND3	TCGA-B5-A11E-01	A266V	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal and COSMIC	266
+CCND3	4130003	K268Afs*40	Non-Hodgkin Lymphoma	Frame_Shift_Ins	Cbioportal and COSMIC	268
+CCND1	CLL-GCLL-0138-Tumor-SM-41JY5	C47S	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	47
+CCND1	S04-45633-TP-S07-16280-NT	P287L	Cutaneous Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-N7-A4Y0-01	P287L	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-BA-A6DJ-01	P287L	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-D1-A2G0-01	T286I	Uterine Mixed Endometrial Carcinoma	Missense_Mutation	Cbioportal	286
+CCND1	TCGA-PG-A6IB-01	T286I	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Missense_Mutation	Cbioportal	286
+CCND1	coadread_dfci_2016_2624	T286I	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	286
+CCND1	coadread_dfci_2016_3319	T286I	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	286
+CCND1	DS-uttcc-045-P	T286I	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal	286
+CCND1	TCGA-EO-A3KX-01	P287S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	XRN-RQB4V1	P287S	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-EO-A3AU-01	T286A	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	286
+CCND1	TCGA-VS-A9UJ-01	P287T	Cervical Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-AJ-A2QO-01	P287T	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-FD-A6TD-01	P287R	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	XRN-CLGCNH	P287R	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	CLL-GCLL-0121-Tumor-SM-41JXN	P287R	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-AP-A1E1-01	P287H	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	287
+CCND1	TCGA-AX-A2HG-01	T286R	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	286
+CCND1	MM-0335	K46N	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	46
+CCND1	CRUK0065-R5	S41W	Non-Small Cell Lung Cancer	Missense_Mutation	Cbioportal	41
+CCND1	CRUK0065-R6	S41W	Non-Small Cell Lung Cancer	Missense_Mutation	Cbioportal	41
+CCND1	TCGA-AX-A1C4-01	C285*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal	285
+CCND1	05CO035	C285*		Nonsense_Mutation	Cbioportal	285
+CCND1	DUOAC_781	Q261*	Ampullary Carcinoma	Nonsense_Mutation	Cbioportal	261
+CCND1	TCGA-AP-A1DH-01	E280*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal	280
+CCND1	Pt11	E280*	Melanoma	Nonsense_Mutation	Cbioportal	280
+CCND1	BLCA-IM12-Tumor-SM-9RN2L	Q264*	Bladder Urothelial Carcinoma	Nonsense_Mutation	Cbioportal	264
+CCND1	CRUK0002-R2	Q264*	Non-Small Cell Lung Cancer	Nonsense_Mutation	Cbioportal	264
+CCND1	CRUK0002-R3	Q264*	Non-Small Cell Lung Cancer	Nonsense_Mutation	Cbioportal	264
+CCND1	XRN-5X6BRA	E273*	Adenoid Cystic Carcinoma	Nonsense_Mutation	Cbioportal	273
+CCND1	XRN-QCV53A	E273*	Adenoid Cystic Carcinoma of the Lung	Nonsense_Mutation	Cbioportal	273
+CCND1	TCGA-AP-A1DR-01	V293_D294del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal	293
+CCND1	TCGA-B5-A11L-01	E272*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal	272
+CCND1	TCGA-E6-A2P8-01	T288del	Uterine Mixed Endometrial Carcinoma	In_Frame_Del	Cbioportal	288
+CCND1	TCGA-EO-A22S-01	C285_D289del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal	285
+CCND1	TCGA-EY-A1GT-01	V290del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal	290
+CCND1	XRN-1AJDC6	E277*	Adenoid Cystic Carcinoma of the Lung	Nonsense_Mutation	Cbioportal	277
+CCND1	MO_1444	R260C	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	260
+CCND1	P25_Rec	N146K	Glioblastoma	Missense_Mutation	Cbioportal	146
+CCND1	TCGA-DU-A7T6-01	N146K	Oligodendroglioma	Missense_Mutation	Cbioportal	146
+CCND1	TCGA-CV-6441-01	D282H	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	282
+CCND1	TCGA-63-A5MM-01	D240N	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	240
+CCND1	PM10-TM	D240N	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal	240
+CCND1	coadread_dfci_2016_352566	A171V	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	171
+CCND1	TCGA-AX-A3G9-01	E280del	Uterine Endometrioid Carcinoma	In_Frame_Del	Cbioportal	280
+CCND1	XRN-SPT8X7	V293G	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	293
+CCND1	XRN-3DDYCR	V293G	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	293
+CCND1	TCGA-44-3396-01	A271S	Lung Adenocarcinoma	Missense_Mutation	Cbioportal	271
+CCND1	TCGA-94-7943-01	H181Q	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	181
+CCND1	coadread_dfci_2016_3064	E280V	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	280
+CCND1	TCGA-VQ-A8P2-01	A81T	Mucinous Stomach Adenocarcinoma	Missense_Mutation	Cbioportal	81
+CCND1	TCGA-AX-A1C4-01	R260H	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	260
+CCND1	TCGA-QH-A6X8-01	R245W	Oligodendroglioma	Missense_Mutation	Cbioportal	245
+CCND1	TCGA-S9-A7IY-01	S258G	Oligoastrocytoma	Missense_Mutation	Cbioportal	258
+CCND1	TCGA-AJ-A3BH-01	L119*	Uterine Endometrioid Carcinoma	Frame_Shift_Del	Cbioportal	119
+CCND1	TCGA-E6-A2P8-01	V281E	Uterine Mixed Endometrial Carcinoma	Missense_Mutation	Cbioportal	281
+CCND1	TCGA-D3-A51T-06	E280dup	Cutaneous Melanoma	In_Frame_Ins	Cbioportal	280
+CCND1	CLL-GCLL-0281-Tumor-SM-4DPAM	E36K	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	36
+CCND1	Pat130	E36K	Cutaneous Melanoma	Missense_Mutation	Cbioportal	36
+CCND1	TCGA-AA-3977-01	R231H	Colon Adenocarcinoma	Missense_Mutation	Cbioportal	231
+CCND1	TCGA-FI-A2D5-01	R231H	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	231
+CCND1	MSK_LX382B	E51K	Lung Adenocarcinoma	Missense_Mutation	Cbioportal	51
+CCND1	TCGA-IG-A3I8-01	DCPS-CCND1	Esophageal Squamous Cell Carcinoma	Fusion	Cbioportal	1
+CCND1	TCGA-MO-A47R-01	V290M	Leiomyosarcoma	Missense_Mutation	Cbioportal	290
+CCND1	TCGA-VQ-A8PO-01	D192Y	Signet Ring Cell Carcinoma of the Stomach	Missense_Mutation	Cbioportal	192
+CCND1	TCGA-EY-A215-01	T184I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	184
+CCND1	coadread_dfci_2016_2564	R291W	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	291
+CCND1	MM-0322	Q4R	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	4
+CCND1	MM-0427	P54A	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	54
+CCND1	MM-0429	C8Y	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	8
+CCND1	MM-0451	E135D	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	135
+CCND1	MM-0635	R235T	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	235
+CCND1	MM-442	P18S	Plasma Cell Myeloma	Missense_Mutation	Cbioportal	18
+CCND1	TCGA-G2-A2EJ-01	P79Q	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal	79
+CCND1	MO_1301	N151K	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	151
+CCND1	TP_2122	R218S	Metaplastic Breast Cancer	Missense_Mutation	Cbioportal	218
+CCND1	5-VS015-T1	Q248E	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	248
+CCND1	5-GE011-T1	P93L	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	93
+CCND1	5-GE076-T1	S131F	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	131
+CCND1	TCGA-BH-A18R-01	PPM1D-CCND1	Breast Invasive Ductal Carcinoma	Fusion	Cbioportal	1
+CCND1	TCGA-BA-A4IG-01	X192_splice	Head and Neck Squamous Cell Carcinoma	Splice_Region	Cbioportal	192
+CCND1	TCGA-DQ-7589-01	CCND1-FGF4	Head and Neck Squamous Cell Carcinoma	Fusion	Cbioportal	1
+CCND1	TCGA-DU-6392-01	F108L	Astrocytoma	Missense_Mutation	Cbioportal	108
+CCND1	TCGA-DD-AADO-01	A205V	Hepatocellular Carcinoma	Missense_Mutation	Cbioportal	205
+CCND1	TCGA-04-1342-01	N221I	Serous Ovarian Cancer	Missense_Mutation	Cbioportal	221
+CCND1	TCGA-FS-A1ZP-06	X241_splice	Cutaneous Melanoma	Splice_Site	Cbioportal	241
+CCND1	TCGA-GN-A8LK-06	E275_V281del	Cutaneous Melanoma	In_Frame_Del	Cbioportal	275
+CCND1	TCGA-YG-AA3P-06	CCND1-ANO1	Cutaneous Melanoma	Fusion	Cbioportal	1
+CCND1	TCGA-BG-A222-01	N21D	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	21
+CCND1	TCGA-E6-A1LX-01	N216S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	216
+CCND1	TCGA-EC-A1QX-01	A154T	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	154
+CCND1	TCGA-EO-A22R-01	I237L	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	237
+CCND1	XRN-RV5WXT	S225F	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	225
+CCND1	XRN-KQ2S4C	Y84*	Adenoid Cystic Carcinoma	Nonsense_Mutation	Cbioportal	84
+CCND1	XRN-GFAL4S	MUTATED	Adenoid Cystic Carcinoma	Targeted_Region	Cbioportal	NA
+CCND1	CLL-GCLL-0281-Tumor-SM-4DPAM	L65V	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	65
+CCND1	11CO059	A20T		Missense_Mutation	Cbioportal	20
+CCND1	11CO059	A210T		Missense_Mutation	Cbioportal	210
+CCND1	nsclc_mskcc_2018s53	X192_splice	Non-Small Cell Lung Cancer	Splice_Region	Cbioportal	192
+CCND1	coadread_dfci_2016_111	A284V	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	284
+CCND1	coadread_dfci_2016_1849	F88Y	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	88
+CCND1	coadread_dfci_2016_293	Y227del	Colorectal Adenocarcinoma	In_Frame_Del	Cbioportal	227
+CCND1	coadread_dfci_2016_3024	P199L	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	199
+CCND1	coadread_dfci_2016_3091	E278G	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	278
+CCND1	coadread_dfci_2016_352983	M155T	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	155
+CCND1	coadread_dfci_2016_3535	H181Y	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	181
+CCND1	coadread_dfci_2016_412	A211T	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	211
+CCND1	coadread_dfci_2016_4430	L144M	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	144
+CCND1	coadread_dfci_2016_4505	X139_splice	Colorectal Adenocarcinoma	Splice_Site	Cbioportal	139
+CCND1	DS-uttcc-061-P	D289N	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal	289
+CCND2	SC_9008-Tumor	X65_splice	Prostate Adenocarcinoma	Splice_Site	Cbioportal	65
+CCND2	00-010K_LIVER	X65_splice	Prostate Adenocarcinoma	Splice_Site	Cbioportal	65
+CCND2	00-010L_LN	X65_splice	Prostate Adenocarcinoma	Splice_Site	Cbioportal	65
+CCND2	00-010N_PROSTATE	X65_splice	Prostate Adenocarcinoma	Splice_Site	Cbioportal	65
+CCND2	cll_iuopa_2015_1292	G268*	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Nonsense_Mutation	Cbioportal	268
+CCND2	MEL-Ma-Mel-120	Q265*	Cutaneous Melanoma	Nonsense_Mutation	Cbioportal	265
+CCND2	TCGA-EO-A22R-01	S200L	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	200
+CCND2	Pt4	S200L	Melanoma	Missense_Mutation	Cbioportal	200
+CCND2	WCM355_1	R22Q	Bladder/Urinary Tract	Missense_Mutation	Cbioportal	22
+CCND2	TCGA-ND-A4WC-01	A203T	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Missense_Mutation	Cbioportal	203
+CCND2	TCGA-FR-A7U8-06	R285W	Cutaneous Melanoma	Missense_Mutation	Cbioportal	285
+CCND2	coadread_dfci_2016_335135	R285W	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	285
+CCND2	TCGA-17-Z022-01	A195V	Lung Adenocarcinoma	Missense_Mutation	Cbioportal	195
+CCND2	TCGA-60-2698-01	A120Rfs*28	Lung Squamous Cell Carcinoma	Frame_Shift_Del	Cbioportal	120
+CCND2	cll_iuopa_2015_1059	T280I	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	280
+CCND2	CLL-GCLL-0233-Tumor-SM-4DP99	T280I	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	280
+CCND2	TCGA-49-AARN-01	V207M	Lung Adenocarcinoma	Missense_Mutation	Cbioportal	207
+CCND2	TCGA-55-A491-01	C5*	Lung Adenocarcinoma	Nonsense_Mutation	Cbioportal	5
+CCND2	TCGA-68-A59J-01	C225G	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	225
+CCND2	TCGA-86-A4JF-01	K49del	Lung Adenocarcinoma	In_Frame_Del	Cbioportal	49
+CCND2	TCGA-YD-A9TA-06	S271L	Cutaneous Melanoma	Missense_Mutation	Cbioportal	271
+CCND2	TCGA-FA-A6HN-01	P53L	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	53
+CCND2	TCGA-F7-A624-01	Y197*	Head and Neck Squamous Cell Carcinoma	Nonsense_Mutation	Cbioportal	197
+CCND2	TCGA-F7-A624-01	Y197C	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	197
+CCND2	S02-15015-TP-S00-35182-NT	A209V	Cutaneous Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	209
+CCND2	TCGA-AX-A2HA-01	A209V	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	209
+CCND2	5-NB007-T1	P281S	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	281
+CCND2	MO_1013-Tumor	D128N	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal	128
+CCND2	MO_1176-Tumor	Q249K	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal	249
+CCND2	TCGA-DD-AACX-01	L141V	Hepatocellular Carcinoma	Missense_Mutation	Cbioportal	141
+CCND2	TCGA-MR-A8JO-01	A120E	Fibrolamellar Carcinoma	Missense_Mutation	Cbioportal	120
+CCND2	TCGA-IB-7651-01	V76I	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal	76
+CCND2	SCRX-Lu149	V284M	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	284
+CCND2	SCRX-Lu149-R	V284M	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	284
+CCND2	CLL-GCLL-0287-Tumor-SM-4DPAS	Q260*	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Nonsense_Mutation	Cbioportal	260
+CCND2	PROS01448-DFCI.10-448.P20-Tumor-SM-5CQ5F	N237S	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal	237
+CCND2	SC_9123_Tumor	I125T	Prostate Adenocarcinoma	Missense_Mutation	Cbioportal	125
+CCND2	aml_ohsu_2018_15-00353	P281L	Acute Megakaryoblastic Leukemia	Missense_Mutation	Cbioportal	281
+CCND2	SJCBF022	P281L	Acute myeloid leukemias	Missense_Mutation	Cbioportal	281
+CCND2	SJCBF022	Q277*	Acute myeloid leukemias	Nonsense_Mutation	Cbioportal	277
+CCND2	Patient-07-CSF1	L112V	Glioblastoma Multiforme	Missense_Mutation	Cbioportal	112
+CCND2	TCGA-VQ-A923-01	A252V	Tubular Stomach Adenocarcinoma	Missense_Mutation	Cbioportal	252
+CCND2	PIP15-70532-T2	T190=	Anaplastic ependymoma	Splice_Region	Cbioportal	190
+CCND2	SCRX-Lu149	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	SCRX-Lu149-R	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	JHU-LX110	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	JHU-LX110-R	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	JHU-LX108	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	JHU-LX108-R	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	JHU-LX22	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	JHU-LX22-R	T190=	Small Cell Lung Cancer	Splice_Region	Cbioportal	190
+CCND2	9266974	L232V	Renal Non-Clear Cell Carcinoma	Missense_Mutation	Cbioportal	232
+CCND2	BLCA-001-Tumor-SM-CUCGA	V66A	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal	66
+CCND2	MEL-IPI_Pat138-Tumor-SM-7A155	E114K	Cutaneous Melanoma	Missense_Mutation	Cbioportal	114
+CCND2	BR-V-015	L112H	Ductal Carcinoma In Situ (DCIS)	Missense_Mutation	Cbioportal	112
+CCND2	cll_iuopa_2015_12	P281R	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	281
+CCND2	cll_iuopa_2015_297	P281R	Monoclonal B-Cell Lymphocytosis	Missense_Mutation	Cbioportal	281
+CCND2	cll_iuopa_2015_855	P281R	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	281
+CCND2	cll_iuopa_2015_291	E35K	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	35
+CCND2	cll_iuopa_2015_475	P281T	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	281
+CCND2	P21_Rec	X42_splice	Glioblastoma	Splice_Region	Cbioportal	42
+CCND2	5-PT035-T1	R86C	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	86
+CCND2	ME020	X138_splice	Cutaneous Melanoma	Splice_Region	Cbioportal	138
+CCND2	MEL-13531	V240M	Cutaneous Melanoma	Missense_Mutation	Cbioportal	240
+CCND2	MEL-JWCI-WGS-25	W149*	Cutaneous Melanoma	Nonsense_Mutation	Cbioportal	149
+CCND2	MO_1135	A80D	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal	80
+CCND2	MO_1142	E114Rfs*45	Clear Cell Carcinoma of the Lung	Frame_Shift_Ins	Cbioportal	114
+CCND2	MO_1287	L147W	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	147
+CCND2	5-VS003-T1	L255F	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	255
+CCND2	5-VS037-T3	S271L	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	271
+CCND2	5-VS056-T1	D283V	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	283
+CCND2	CRUK0005-R3	N129K	Non-Small Cell Lung Cancer	Missense_Mutation	Cbioportal	129
+CCND2	TCGA-A6-3809-01	M106I	Mucinous Adenocarcinoma of the Colon and Rectum	Missense_Mutation	Cbioportal	106
+CCND2	TCGA-06-0221-02	CCND2-FGF23	Glioblastoma Multiforme	Fusion	Cbioportal	2
+CCND2	TCGA-CV-7415-01	P117Q	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	117
+CCND2	TCGA-22-1017-01	GCN1-CCND2	Lung Squamous Cell Carcinoma	Fusion	Cbioportal	1
+CCND2	TCGA-EE-A2GO-06	L137=	Cutaneous Melanoma	Splice_Region	Cbioportal	137
+CCND2	TCGA-A5-A0G1-01	L141M	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Missense_Mutation	Cbioportal	141
+CCND2	TCGA-A5-A0G2-01	L20R	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Missense_Mutation	Cbioportal	20
+CCND2	TCGA-A5-A0G2-01	P198L	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Missense_Mutation	Cbioportal	198
+CCND2	TCGA-AJ-A23O-01	D9G	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	9
+CCND2	TCGA-B5-A1MR-01	P198S	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	198
+CCND2	TCGA-B5-A1MX-01	X66_splice	Uterine Endometrioid Carcinoma	Splice_Site	Cbioportal	66
+CCND2	TCGA-B5-A1MX-01	A120V	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	120
+CCND2	TCGA-B5-A3FA-01	E161G	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	161
+CCND2	TCGA-DI-A1BU-01	I202T	Uterine Mixed Endometrial Carcinoma	Missense_Mutation	Cbioportal	202
+CCND2	TCGA-E6-A1LX-01	C242*	Uterine Endometrioid Carcinoma	Nonsense_Mutation	Cbioportal	242
+CCND2	TCGA-E6-A1LX-01	L243I	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	243
+CCND2	TCGA-E6-A1LX-01	E272D	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	272
+CCND2	TCGA-EO-A3AV-01	V66=	Uterine Endometrioid Carcinoma	Splice_Region	Cbioportal	66
+CCND2	TCGA-FI-A2D5-01	R285Q	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	285
+CCND2	XRN-B0NL8D	G90W	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	90
+CCND2	XRN-5C9RS7	R16W	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	16
+CCND2	XRN-H6T5KQ	Q169*	Adenoid Cystic Carcinoma	Nonsense_Mutation	Cbioportal	169
+CCND2	CLL-GCLL-0272-Tumor-SM-4DPAD	C242R	Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma	Missense_Mutation	Cbioportal	242
+CCND2	05CO037	S206G		Missense_Mutation	Cbioportal	206
+CCND2	coadread_dfci_2016_3262	X65_splice	Colorectal Adenocarcinoma	Splice_Region	Cbioportal	65
+CCND2	coadread_dfci_2016_3181	X65_splice	Colorectal Adenocarcinoma	Splice_Region	Cbioportal	65
+CCND2	coadread_dfci_2016_1225	X65_splice	Colorectal Adenocarcinoma	Splice_Region	Cbioportal	65
+CCND2	coadread_dfci_2016_3658	X65_splice	Colorectal Adenocarcinoma	Splice_Region	Cbioportal	65
+CCND2	coadread_dfci_2016_4525	V240L	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	240
+CCND2	DS-uttcc-060-P	D85N	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal	85
+CCND2	ICGC_0035	T190I	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal	190
+CCND2	Pt35	Q70H	Melanoma	Missense_Mutation	Cbioportal	70
+CCND3	PCNSL_2	I290K	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	290
+CCND3	DOHH-2	I290T	Germinal Center B-Cell Type	Missense_Mutation	Cbioportal	290
+CCND3	DLBCL_DUKE_2114	I290R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	290
+CCND3	DLBCL_DUKE_2125	I290R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	290
+CCND3	DLBCL_DUKE_2133	I290R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	290
+CCND3	DLBCL_DUKE_2477	I290R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	290
+CCND3	DLBCL_DUKE_3831	I290R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	290
+CCND3	DLBCL-LS1065	Q276*	Activated B-cell Type	Nonsense_Mutation	Cbioportal	276
+CCND3	aml_ohsu_2018_13-00493	P284S	AML with Mutated NPM1	Missense_Mutation	Cbioportal	284
+CCND3	aml_ohsu_2018_14-00495	P284S	AML with Mutated NPM1	Missense_Mutation	Cbioportal	284
+CCND3	ICGC_0093	P284S	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal	284
+CCND3	DLBCL_DUKE_2226	P284S	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	284
+CCND3	DLBCL_DUKE_3467	P284S	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	284
+CCND3	DLBCL-LS2089	T283I	Activated B-cell Type	Missense_Mutation	Cbioportal	283
+CCND3	TCGA-GS-A9TU-01	T283A	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	283
+CCND3	DLBCL_DUKE_3758	T283A	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	283
+CCND3	mnm_washu_2016_1021-1	P284L	Myeloid Neoplasm	Missense_Mutation	Cbioportal	284
+CCND3	DLBCL_DUKE_2555	P284R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	284
+CCND3	DLBCL_DUKE_3880	P284R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	284
+CCND3	DLBCL_DUKE_3886	P284R	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	284
+CCND3	HN_62854	Q260E	Head and Neck Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	260
+CCND3	PIP14-13487-T1	S259A	Chondroblastic Osteosarcoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP14-35585-T1	S259A	Renal Cell Carcinoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP14-82072-T1	S259A	Neuroblastoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-10597-T1	S259A	Non-seminomatous Mixed Germ Cell Tumor	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-18928-T1	S259A	Hepatoblastoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-51609-T1	S259A	B-Lymphoblastic Leukemia/Lymphoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-54215-T1	S259A	Neuroblastoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-63375-T1	S259A	Acute Myeloid Leukemia	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-68033-T1	S259A	B-Lymphoblastic Leukemia/Lymphoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-68909-T1	S259A	Optic nerve glioma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-68909-T2	S259A	Optic nerve glioma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-70532-T2	S259A	Anaplastic ependymoma	Missense_Mutation	Cbioportal	259
+CCND3	PIP15-89172-T1	S259A	Pineal Germ Cell Tumor	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX110	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX110-R	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX108	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX108-R	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX102	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX102-R	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX101	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX101-R	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX33	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	JHU-LX33-R	S259A	Small Cell Lung Cancer	Missense_Mutation	Cbioportal	259
+CCND3	CR4880	S259A	Melanoma of Unknown Primary	Missense_Mutation	Cbioportal	259
+CCND3	MB-4697	Q260*	Breast Invasive Lobular Carcinoma	Nonsense_Mutation	Cbioportal	260
+CCND3	DLBCL_DUKE_2790	Q260*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	260
+CCND3	DLBCL_DUKE_2935	Q260*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	260
+CCND3	DLBCL_DUKE_3750	Q260*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	260
+CCND3	TCGA-CU-A3QU-01	L32R	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal	32
+CCND3	MTS-T1284	I121M	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	121
+CCND3	coadread_dfci_2016_3610	I121M	Colorectal Adenocarcinoma	Missense_Mutation	Cbioportal	121
+CCND3	TCGA-O2-A52Q-01	S201Y	Lung Squamous Cell Carcinoma	Missense_Mutation	Cbioportal	201
+CCND3	MB-4418	I208T	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	208
+CCND3	DLBCL_DUKE_3551	I208T	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	208
+CCND3	TCGA-AP-A1DV-01	R95Q	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	95
+CCND3	MBC-MBCProject_57iLiJIl-Tumor-SM-CGLIV	R95Q	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	95
+CCND3	TCGA-IB-7651-01	N83H	Pancreatic Adenocarcinoma	Missense_Mutation	Cbioportal	83
+CCND3	TCGA-IA-A83W-01	E115Q	Papillary Renal Cell Carcinoma	Missense_Mutation	Cbioportal	115
+CCND3	DLBCL-LS1546	R271Pfs*53	Activated B-cell Type	Frame_Shift_Ins	Cbioportal	271
+CCND3	DLBCL-MAYO_DLBCL_234	R271Pfs*53	Germinal Center B-Cell Type	Frame_Shift_Ins	Cbioportal	271
+CCND3	TCGA-EC-A1NJ-01	R271Pfs*53	Uterine Endometrioid Carcinoma	Frame_Shift_Ins	Cbioportal	271
+CCND3	01CO022	R271Pfs*53		Frame_Shift_Ins	Cbioportal	271
+CCND3	4177434	R271Pfs*53	Non-Hodgkin Lymphoma	Frame_Shift_Ins	Cbioportal	271
+CCND3	TCGA-KQ-A41R-01	S263C	Bladder Urothelial Carcinoma	Missense_Mutation	Cbioportal	263
+CCND3	TCGA-UD-AAC5-01	Y88D	Pleural Mesothelioma, Epithelioid Type	Missense_Mutation	Cbioportal	88
+CCND3	TCGA-BR-8373-01	CCND3-TRERF1	Intestinal Type Stomach Adenocarcinoma	Fusion	Cbioportal	3
+CCND3	TCGA-NC-A5HJ-01	CCND3-TRERF1	Lung Squamous Cell Carcinoma	Fusion	Cbioportal	3
+CCND3	TCGA-AJ-A3NH-01	CCND3-TRERF1	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma	Fusion	Cbioportal	3
+CCND3	4194891	Q260Dfs*63	Non-Hodgkin Lymphoma	Frame_Shift_Del	Cbioportal	260
+CCND3	DLBCL-RICOVER_267	V287D	Germinal Center B-Cell Type	Missense_Mutation	Cbioportal	287
+CCND3	DLBCL_DUKE_3762	R14W	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	14
+CCND3	TCGA-L5-A8NS-01	R95L	Esophageal Adenocarcinoma	Missense_Mutation	Cbioportal	95
+CCND3	TCGA-3B-A9HQ-01	S221Y	Leiomyosarcoma	Missense_Mutation	Cbioportal	221
+CCND3	TCGA-DX-A3LU-01	DHX15-CCND3	Dedifferentiated Liposarcoma	Fusion	Cbioportal	15
+CCND3	TCGA-DX-A6BH-01	AKAP12-CCND3	Dedifferentiated Liposarcoma	Fusion	Cbioportal	12
+CCND3	TCGA-BR-8678-01	X237_splice	Stomach Adenocarcinoma	Splice_Region	Cbioportal	237
+CCND3	TCGA-VQ-A925-01	SRPK1-CCND3	Tubular Stomach Adenocarcinoma	Fusion	Cbioportal	1
+CCND3	TCGA-N8-A4PI-01	CCND3-LUZP1	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Fusion	Cbioportal	3
+CCND3	TCGA-NA-A4QV-01	MED20-CCND3	Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor	Fusion	Cbioportal	20
+CCND3	DLBCL_DUKE_2475	Q280*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	280
+CCND3	DLBCL_DUKE_2664	Q280*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	280
+CCND3	DLBCL_DUKE_3403	Q280*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	280
+CCND3	DLBCL_DUKE_3590	Q280*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	280
+CCND3	aml_ohsu_2018_16-00465	R167W	Acute Myeloid Leukemia	Missense_Mutation	Cbioportal	167
+CCND3	DLBCL_DUKE_3976	R167W	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	167
+CCND3	ccRCC_33	E74D	Renal Clear Cell Carcinoma with Sarcomatoid Features	Missense_Mutation	Cbioportal	74
+CCND3	Pat_32_Post	T205M	Melanoma	Missense_Mutation	Cbioportal	205
+CCND3	Angio-ASCProject_aPskieIL-Tumor-SM-DACOA	P199S	Angiosarcoma	Missense_Mutation	Cbioportal	199
+CCND3	WCM-UTUC-21	E253K	Upper Tract Urothelial Carcinoma	Missense_Mutation	Cbioportal	253
+CCND3	XRN-TNSBHY	E122G	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	122
+CCND3	MB-5183	E122G	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	122
+CCND3	XRN-ULHYET	S169F	Adenoid Cystic Carcinoma	Missense_Mutation	Cbioportal	169
+CCND3	MB-6055	S169F	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	169
+CCND3	PAMDRM	S169F	B-Lymphoblastic Leukemia/Lymphoma, BCR-ABL1 Like	Missense_Mutation	Cbioportal	169
+CCND3	DLBCL-RICOVER_1106	I126F	Activated B-cell Type	Missense_Mutation	Cbioportal	126
+CCND3	Patient-34-CSF-LP	P79L	Glioblastoma Multiforme	Missense_Mutation	Cbioportal	79
+CCND3	Patient-34-CSF-VP	P79L	Glioblastoma Multiforme	Missense_Mutation	Cbioportal	79
+CCND3	MO_1509	E35K	Breast Invasive Lobular Carcinoma	Missense_Mutation	Cbioportal	35
+CCND3	5-GE004-T2	C243R	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	243
+CCND3	5-GE043-T1	X67_splice	Skin Cancer, Non-Melanoma	Splice_Region	Cbioportal	67
+CCND3	5-GE043-T2	X67_splice	Skin Cancer, Non-Melanoma	Splice_Region	Cbioportal	67
+CCND3	5-GE076-T1	P134L	Skin Cancer, Non-Melanoma	Missense_Mutation	Cbioportal	134
+CCND3	TCGA-AR-A1AI-01	CCND3-GUCA1B	Breast Invasive Ductal Carcinoma	Fusion	Cbioportal	3
+CCND3	TCGA-CK-4951-01	G216D	Mucinous Adenocarcinoma of the Colon and Rectum	Missense_Mutation	Cbioportal	216
+CCND3	TCGA-CK-4951-01	G214S	Mucinous Adenocarcinoma of the Colon and Rectum	Missense_Mutation	Cbioportal	214
+CCND3	TCGA-D5-6930-01	Q244R	Mucinous Adenocarcinoma of the Colon and Rectum	Missense_Mutation	Cbioportal	244
+CCND3	TCGA-49-6761-01	R50L	Lung Adenocarcinoma	Missense_Mutation	Cbioportal	50
+CCND3	TCGA-22-5483-01	CCND3-BYSL	Lung Squamous Cell Carcinoma	Fusion	Cbioportal	3
+CCND3	TCGA-46-3769-01	FOXP4-CCND3	Lung Squamous Cell Carcinoma	Fusion	Cbioportal	4
+CCND3	TCGA-13-1505-01	CCND3-PPP2R5D	Serous Ovarian Cancer	Fusion	Cbioportal	3
+CCND3	TCGA-G9-6353-01	GMDS-CCND3	Prostate Adenocarcinoma	Fusion	Cbioportal	3
+CCND3	TCGA-D3-A8GN-06	R87C	Cutaneous Melanoma	Missense_Mutation	Cbioportal	87
+CCND3	TCGA-AX-A2HC-01	E248K	Uterine Endometrioid Carcinoma	Missense_Mutation	Cbioportal	248
+CCND3	11CO051	A266V		Missense_Mutation	Cbioportal	266
+CCND3	aml_ohsu_2018_13-00572	R271Pfs*53	Therapy-Related Myeloid Neoplasms	Frame_Shift_Ins	Cbioportal	271
+CCND3	aml_ohsu_2018_14-00632	R271Pfs*53	Acute Myeloid Leukemia	Frame_Shift_Ins	Cbioportal	271
+CCND3	aml_ohsu_2018_15-00811	R271Pfs*53	AML with Mutated NPM1	Frame_Shift_Ins	Cbioportal	271
+CCND3	aml_ohsu_2018_15-00701	A269Pfs*35	AML with Minimal Differentiation	Frame_Shift_Del	Cbioportal	269
+CCND3	aml_ohsu_2018_16-00566	A266Sfs*58	AML with Mutated NPM1	Frame_Shift_Ins	Cbioportal	266
+CCND3	MB-7161	R33G	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	33
+CCND3	MB-7249	Q25E	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	25
+CCND3	MB-7268	T184N	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	184
+CCND3	MB-7283	R87L	Breast Invasive Lobular Carcinoma	Missense_Mutation	Cbioportal	87
+CCND3	MB-4012	P17S	Breast Invasive Ductal Carcinoma	Missense_Mutation	Cbioportal	17
+CCND3	ALL-121	E236delinsGLK	T-Lymphoblastic Leukemia/Lymphoma	In_Frame_Ins	Cbioportal	236
+CCND3	ihch_smmu_119	S259Lfs*45	Intrahepatic Cholangiocarcinoma	Frame_Shift_Del	Cbioportal	259
+CCND3	coadread_dfci_2016_3262	R271Gfs*33	Colorectal Adenocarcinoma	Frame_Shift_Del	Cbioportal	271
+CCND3	4177856	R271Pfs*34	Non-Hodgkin Lymphoma	Frame_Shift_Ins	Cbioportal	271
+CCND3	T-ALL_H_S-00207	E253Gfs*71	T-Lymphoblastic Leukemia/Lymphoma	Frame_Shift_Ins	Cbioportal	253
+CCND3	T-ALL_H_S-00207-R	E253Gfs*71	T-Lymphoblastic Leukemia/Lymphoma	Frame_Shift_Ins	Cbioportal	253
+CCND3	ICGC_MB145	L177F	Medulloblastoma	Missense_Mutation	Cbioportal	177
+CCND3	DLBCL_DUKE_2713	P267Rfs*24	Diffuse Large B-Cell Lymphoma, NOS	Frame_Shift_Del	Cbioportal	267
+CCND3	DLBCL_DUKE_3743	P265_S274del	Diffuse Large B-Cell Lymphoma, NOS	In_Frame_Del	Cbioportal	265
+CCND3	DLBCL_DUKE_3628	S274Afs*30	Diffuse Large B-Cell Lymphoma, NOS	Frame_Shift_Del	Cbioportal	274
+CCND3	DLBCL_DUKE_3456	F185L	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	185
+CCND3	DLBCL_DUKE_2190	R172H	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	172
+CCND3	DLBCL_DUKE_2161	K58N	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	58
+CCND3	DLBCL_DUKE_3846	P54S	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	54
+CCND3	DLBCL_DUKE_2235	Q49*	Diffuse Large B-Cell Lymphoma, NOS	Nonsense_Mutation	Cbioportal	49
+CCND3	DLBCL_DUKE_2222	P40S	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	40
+CCND3	DLBCL_DUKE_2621	L32P	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	32
+CCND3	DLBCL_DUKE_3457	L32P	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	32
+CCND3	DLBCL_DUKE_3983	L32P	Diffuse Large B-Cell Lymphoma, NOS	Missense_Mutation	Cbioportal	32
+CCND1	2653767	p.T286P	pancreas	Substitution - Missense	COSMIC	286
+CCND1	SH-5693	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	SH-7282	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	CHC301T	p.S41=	liver	Substitution - coding silent	COSMIC	41
+CCND1	MC050	p.K46R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	46
+CCND1	DN1502C	p.?	breast	Unknown	COSMIC	NA
+CCND1	1498	p.C47S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	47
+CCND1	YYY-1039T	p.?	stomach	Unknown	COSMIC	NA
+CCND1	M004-PB	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	328	p.P54S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	54
+CCND1	W36T	p.F88S	thyroid	Substitution - Missense	COSMIC	88
+CCND1	SH-7032	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	PD7067a	p.?	breast	Unknown	COSMIC	NA
+CCND1	RK089_C01	p.?	liver	Unknown	COSMIC	NA
+CCND1	PD13602a	p.?	breast	Unknown	COSMIC	NA
+CCND1	I2L-P19Ta-Tumor-Organoid	p.P199L	large_intestine	Substitution - Missense	COSMIC	199
+CCND1	T3091	p.E278G	large_intestine	Substitution - Missense	COSMIC	278
+CCND1	ML_79_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND1	1187	p.V42A	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	42
+CCND1	PD7306a	p.?	breast	Unknown	COSMIC	NA
+CCND1	B1-2A	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	SH-8559	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	HCC95T	p.?	liver	Unknown	COSMIC	NA
+CCND1	T_CCA_SG_16	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	TCGA-E7-A8O8-01	p.P220L	urinary_tract	Substitution - Missense	COSMIC	220
+CCND1	T3535	p.H181Y	large_intestine	Substitution - Missense	COSMIC	181
+CCND1	PD4952a	p.?	breast	Unknown	COSMIC	NA
+CCND1	J30_T	p.?	lung	Unknown	COSMIC	NA
+CCND1	MBC_52	p.L233=	breast	Substitution - coding silent	COSMIC	233
+CCND1	BD35T	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	QC2-19-T2	p.C73*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	73
+CCND1	HS1518	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	HCC29T	p.?	liver	Unknown	COSMIC	NA
+CCND1	DN1401D	p.?	breast	Unknown	COSMIC	NA
+CCND1	MC063	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	T4430	p.L144M	large_intestine	Substitution - Missense	COSMIC	144
+CCND1	Peritoneum	p.P287H	peritoneum	Substitution - Missense	COSMIC	287
+CCND1	B1-CaA	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	C0001T	p.?	kidney	Unknown	COSMIC	NA
+CCND1	T3064	p.E280V	large_intestine	Substitution - Missense	COSMIC	280
+CCND1	OSCC-GB_01290111	p.?	upper_aerodigestive_tract	Unknown	COSMIC	NA
+CCND1	C0049T	p.?	kidney	Unknown	COSMIC	NA
+CCND1	PCSI_0264_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	SH-4435	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	SH-3133	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	U87	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	101225	p.Q4P	lung	Substitution - Missense	COSMIC	4
+CCND1	SH-7329	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	DM14	p.S131=	skin	Substitution - coding silent	COSMIC	131
+CCND1	MC046	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	BD49T	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	SH-1679	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	Thyroid-CN-WZ048T	p.F88S	thyroid	Substitution - Missense	COSMIC	88
+CCND1	RK010_C	p.?	liver	Unknown	COSMIC	NA
+CCND1	HS1511	p.C47W	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	47
+CCND1	M002-Tonsil	p.C47S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	47
+CCND1	ESO-161	p.S166=	stomach	Substitution - coding silent	COSMIC	166
+CCND1	W20T	p.R15L	thyroid	Substitution - Missense	COSMIC	15
+CCND1	0078_CRUK_PC_0078_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND1	327	p.E36Q	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	36
+CCND1	T1209	p.E280del	large_intestine	Deletion - In frame	COSMIC	280
+CCND1	SH-0348	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	HS1512	p.H3Q	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	3
+CCND1	MC044	p.P18R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	18
+CCND1	M002-Tonsil	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	WSU-HN12	p.F185L	upper_aerodigestive_tract	Substitution - Missense	COSMIC	185
+CCND1	2014_Lung_sq_41_T	p.?	lung	Unknown	COSMIC	NA
+CCND1	SH-9161	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	8051717	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	M004-PB	p.Y44H	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	44
+CCND1	T3721	p.A210=	large_intestine	Substitution - coding silent	COSMIC	210
+CCND1	SJHGG003_A	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	328	p.M155V	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	155
+CCND1	CHG-27T	p.?	liver	Unknown	COSMIC	NA
+CCND1	SH-2871	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	ME049T	p.A270T	skin	Substitution - Missense	COSMIC	270
+CCND1	T_CCA_SG_15	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	MC056	p.L6P	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	6
+CCND1	T352983	p.M155T	large_intestine	Substitution - Missense	COSMIC	155
+CCND1	PCSI_0466_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	T352566	p.A171V	large_intestine	Substitution - Missense	COSMIC	171
+CCND1	HS1527	p.E36K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	36
+CCND1	HKNPC-012-Tumor-SM-5PA34	p.L23=	upper_aerodigestive_tract	Substitution - coding silent	COSMIC	23
+CCND1	SH-1641	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	DN110E8	p.?	breast	Unknown	COSMIC	NA
+CCND1	CPCG0462-F1	p.?	prostate	Unknown	COSMIC	NA
+CCND1	MC067	p.V42A	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	42
+CCND1	SC_9050	p.?	prostate	Unknown	COSMIC	NA
+CCND1	HS1598	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	LN229	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	SH-1362	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	PD8973a	p.?	breast	Unknown	COSMIC	NA
+CCND1	1809	p.K46E	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	46
+CCND1	ML_124_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND1	ML_103_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND1	1514	p.K46T	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	46
+CCND1	PD14472a	p.?	breast	Unknown	COSMIC	NA
+CCND1	T3235	p.A154=	large_intestine	Substitution - coding silent	COSMIC	154
+CCND1	T111	p.A284V	large_intestine	Substitution - Missense	COSMIC	284
+CCND1	M004-PB	p.Y44*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	44
+CCND1	SH-9771	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	HCC122T	p.?	liver	Unknown	COSMIC	NA
+CCND1	PD14459a	p.?	breast	Unknown	COSMIC	NA
+CCND1	SH-6055	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	ME024T	p.P287L	skin	Substitution - Missense	COSMIC	287
+CCND1	TCGA-E7-A6MD-01	p.F108=	urinary_tract	Substitution - coding silent	COSMIC	108
+CCND1	HX20T	p.?	liver	Unknown	COSMIC	NA
+CCND1	LP6005935-DNA_B01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND1	VAN00673	p.S41P	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	41
+CCND1	sysucc-1240T	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	CHC320T	p.?	liver	Unknown	COSMIC	NA
+CCND1	SNU_09_S1	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	RK308_C01	p.?	liver	Unknown	COSMIC	NA
+CCND1	TCGA-AP-A054-01	p.C243R	endometrium	Substitution - Missense	COSMIC	243
+CCND1	SH-7166	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	sysucc-867T	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	BD165T	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	T3024	p.P199L	large_intestine	Substitution - Missense	COSMIC	199
+CCND1	T412	p.A211T	large_intestine	Substitution - Missense	COSMIC	211
+CCND1	YUMUL	p.K50=	skin	Substitution - coding silent	COSMIC	50
+CCND1	U373	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	MC067	p.C47R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	47
+CCND1	LP6008269-DNA_E09	p.?	oesophagus	Unknown	COSMIC	NA
+CCND1	BD72T	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	SH-9248	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	1802	p.Y44H	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	44
+CCND1	DM16	p.S166=	skin	Substitution - coding silent	COSMIC	166
+CCND1	PD11368a	p.?	breast	Unknown	COSMIC	NA
+CCND1	SWE-37	p.P241=	prostate	Substitution - coding silent	COSMIC	241
+CCND1	2014_Lung_sq_50_T	p.?	lung	Unknown	COSMIC	NA
+CCND1	MC028	p.P18S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	18
+CCND1	PD7202a	p.?	breast	Unknown	COSMIC	NA
+CCND1	ML_128_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND1	172-01-1TD	p.S234=	haematopoietic_and_lymphoid_tissue	Substitution - coding silent	COSMIC	234
+CCND1	Gp2D	p.T116I	large_intestine	Substitution - Missense	COSMIC	116
+CCND1	CHG-13-29153T	p.A154S	liver	Substitution - Missense	COSMIC	154
+CCND1	T3535	p.R231=	large_intestine	Substitution - coding silent	COSMIC	231
+CCND1	LUAD-RT-S01810	p.A205=	lung	Substitution - coding silent	COSMIC	205
+CCND1	tumor_4141476	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	CRC-02T	p.P287L	large_intestine	Substitution - Missense	COSMIC	287
+CCND1	LC_C4	p.A270V	lung	Substitution - Missense	COSMIC	270
+CCND1	SH-3133	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	MC035	p.E36K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	36
+CCND1	T_CCA_RO_4	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	HUB-02-B2-087	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	MC050	p.K46N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	46
+CCND1	SH-7329	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	98580	p.R57=	ovary	Substitution - coding silent	COSMIC	57
+CCND1	SH-102782	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	TCGA-D3-A5GR-06	p.R87=	skin	Substitution - coding silent	COSMIC	87
+CCND1	PD22358a	p.?	breast	Unknown	COSMIC	NA
+CCND1	TCGA-DK-A6B6-01	p.L233=	urinary_tract	Substitution - coding silent	COSMIC	233
+CCND1	HKNPC-033-Tumor-SM-64MFS	p.L119*	upper_aerodigestive_tract	Deletion - Frameshift	COSMIC	119
+CCND1	PD14441a	p.?	breast	Unknown	COSMIC	NA
+CCND1	PD4978a	p.?	breast	Unknown	COSMIC	NA
+CCND1	SH-9248	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	PD5946a	p.?	breast	Unknown	COSMIC	NA
+CCND1	M001-LN	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	CSCC-27-T	p.S201=	skin	Substitution - coding silent	COSMIC	201
+CCND1	SC_9023	p.?	prostate	Unknown	COSMIC	NA
+CCND1	PD4956a	p.?	breast	Unknown	COSMIC	NA
+CCND1	TCGA-55-8089-01	p.L188=	lung	Substitution - coding silent	COSMIC	188
+CCND1	ML_57_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND1	DM12	p.G206=	skin	Substitution - coding silent	COSMIC	206
+CCND1	T2624	p.T286I	large_intestine	Substitution - Missense	COSMIC	286
+CCND1	OSCC-GB_01210111	p.?	upper_aerodigestive_tract	Unknown	COSMIC	NA
+CCND1	LN18	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	2014_SWES_13_DX	p.P241=	haematopoietic_and_lymphoid_tissue	Substitution - coding silent	COSMIC	241
+CCND1	8068585	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	RMS110	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	TCGA-D1-A16D-01	p.R291_V293del	endometrium	Deletion - In frame	COSMIC	291
+CCND1	HCC1833	p.Q250H	lung	Substitution - Missense	COSMIC	250
+CCND1	DN11197	p.?	breast	Unknown	COSMIC	NA
+CCND1	YYY-347T	p.?	stomach	Unknown	COSMIC	NA
+CCND1	2011-2268:2012-368-T	p.?	upper_aerodigestive_tract	Unknown	COSMIC	NA
+CCND1	CHC2691T	p.?	liver	Unknown	COSMIC	NA
+CCND1	SH-0348	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	T1849	p.F88Y	large_intestine	Substitution - Missense	COSMIC	88
+CCND1	T4505	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	CRC-10T	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	2437182	p.P287A	soft_tissue	Substitution - Missense	COSMIC	287
+CCND1	SH-1439	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	HS1522	p.C47G	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	47
+CCND1	P-92-6393-Tumor-SM-7CKB6	p.S41L	upper_aerodigestive_tract	Substitution - Missense	COSMIC	41
+CCND1	DA12039	p.?	prostate	Unknown	COSMIC	NA
+CCND1	PCSI_0048_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	SH-1362	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	DN11120	p.?	breast	Unknown	COSMIC	NA
+CCND1	VAN00735	p.E36G	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	36
+CCND1	SJBALL021486_D1	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	VAN00673	p.V42L	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	42
+CCND1	HS1512	p.Y44D	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	44
+CCND1	PD13620a	p.?	breast	Unknown	COSMIC	NA
+CCND1	TCGA-AU-6004-01	p.R133=	large_intestine	Substitution - coding silent	COSMIC	133
+CCND1	TCGA-F1-6177-01	p.K46=	stomach	Substitution - coding silent	COSMIC	46
+CCND1	CHG-89T	p.?	liver	Unknown	COSMIC	NA
+CCND1	8070199	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	DM45	p.E173=	skin	Substitution - coding silent	COSMIC	173
+CCND1	T98G	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	SH-3458	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	MC065	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	RK206_C01	p.?	liver	Unknown	COSMIC	NA
+CCND1	H1435	p.R291W	lung	Substitution - Missense	COSMIC	291
+CCND1	pros_04_dx	p.P241=	haematopoietic_and_lymphoid_tissue	Substitution - coding silent	COSMIC	241
+CCND1	T_CCA_SG_8	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	1187	p.Y44D	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	44
+CCND1	SH-1641	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	SH-5693	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	VAN00723	p.L6P	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	6
+CCND1	TCGA-GF-A6C9-06	p.I59=	skin	Substitution - coding silent	COSMIC	59
+CCND1	TCGA-BG-A0VW-01	p.C106=	endometrium	Substitution - coding silent	COSMIC	106
+CCND1	U343	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND1	1807	p.E36K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	36
+CCND1	PD4833a	p.?	breast	Unknown	COSMIC	NA
+CCND1	T_CCA_SG_20	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	T293	p.Y227del	large_intestine	Deletion - In frame	COSMIC	227
+CCND1	PD14453a	p.?	breast	Unknown	COSMIC	NA
+CCND1	PTC-7C	p.P241=	thyroid	Substitution - coding silent	COSMIC	241
+CCND1	LICA-CN-HCC_WGS_013T	p.?	liver	Unknown	COSMIC	NA
+CCND1	RMS77	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND1	RK010_C01	p.?	liver	Unknown	COSMIC	NA
+CCND1	JCQ-HMCaA	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	SH-1679	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	LOPC-024_tumor_01	p.?	prostate	Unknown	COSMIC	NA
+CCND1	Thyroid-CN-WZ040T	p.R15L	thyroid	Substitution - Missense	COSMIC	15
+CCND1	T2564	p.R291W	large_intestine	Substitution - Missense	COSMIC	291
+CCND1	RK197_C01	p.?	liver	Unknown	COSMIC	NA
+CCND1	MC050	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	PD18037a	p.?	breast	Unknown	COSMIC	NA
+CCND1	HX21T	p.?	liver	Unknown	COSMIC	NA
+CCND1	MC067	p.I13F	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	13
+CCND1	LOXIMVI	p.D240H	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	240
+CCND1	T3319	p.T286I	large_intestine	Substitution - Missense	COSMIC	286
+CCND1	2668583	p.P241=	salivary_gland	Substitution - coding silent	COSMIC	241
+CCND1	TCGA-DK-A1AC-01	p.L188=	urinary_tract	Substitution - coding silent	COSMIC	188
+CCND1	90992	p.Q49=	haematopoietic_and_lymphoid_tissue	Substitution - coding silent	COSMIC	49
+CCND1	SH-3776	p.P241=	soft_tissue	Substitution - coding silent	COSMIC	241
+CCND1	SNU_17_S1	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND1	AOCS-166-1-2	p.?	ovary	Unknown	COSMIC	NA
+CCND1	PCSI_0173_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND1	H1435	p.R291L	lung	Substitution - Missense	COSMIC	291
+CCND1	0061_CRUK_PC_0061_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND1	MC067	p.V10A	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	10
+CCND1	T_CCA_IT_4	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	1807	p.V48A	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	48
+CCND1	SS6003117	p.?	oesophagus	Unknown	COSMIC	NA
+CCND1	VAN00721	p.Y44S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	44
+CCND1	2011-2286:2012-1321-T	p.?	upper_aerodigestive_tract	Unknown	COSMIC	NA
+CCND1	T_CCA_SG_4	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND1	2014_Lung_sq_96_T	p.?	lung	Unknown	COSMIC	NA
+CCND1	TCGA-G4-6309-01	p.E280del	large_intestine	Deletion - In frame	COSMIC	280
+CCND1	PD6411a	p.?	breast	Unknown	COSMIC	NA
+CCND1	T3690	p.?	large_intestine	Unknown	COSMIC	NA
+CCND1	OSCC-GB_01170111	p.?	upper_aerodigestive_tract	Unknown	COSMIC	NA
+CCND1	262LT	p.A205S	large_intestine	Substitution - Missense	COSMIC	205
+CCND1	8057559	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	3T56	p.C242R	oesophagus	Substitution - Missense	COSMIC	242
+CCND2	2014_Lung_sq_91_T	p.T190=	lung	Substitution - coding silent	COSMIC	190
+CCND2	SH-8559	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	pros_04_dx	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	SS6003305	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	T98G	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	pfg019T	p.?	stomach	Unknown	COSMIC	NA
+CCND2	AOCS-112-1-2	p.?	ovary	Unknown	COSMIC	NA
+CCND2	DLD1	p.L100R	large_intestine	Substitution - Missense	COSMIC	100
+CCND2	2014_Lung_sq_50_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	CRC-30T	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	T_CCA_JP_9	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	PCSI_0111_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	T_CCA_TH_6	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	0160_CRUK_PC_0160_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	DM59	p.K193R	skin	Substitution - Missense	COSMIC	193
+CCND2	PD11339a	p.?	breast	Unknown	COSMIC	NA
+CCND2	PD24194a	p.?	breast	Unknown	COSMIC	NA
+CCND2	T3658	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	HCC31T	p.?	liver	Unknown	COSMIC	NA
+CCND2	tumor_4120193	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	TARGET-20-PANJGR-09A-03D	p.V284E	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND2	CHG-13-09089T	p.V104F	liver	Substitution - Missense	COSMIC	104
+CCND2	8066488	p.D267=	pancreas	Substitution - coding silent	COSMIC	267
+CCND2	CHG-38T	p.?	liver	Unknown	COSMIC	NA
+CCND2	ASHPC_0022_Pa_P	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	TARGET-20-PANLIZ-04A-02D	p.T280A	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	WA48	p.R178=	prostate	Substitution - coding silent	COSMIC	178
+CCND2	ICGC_MB78	p.T280A	central_nervous_system	Substitution - Missense	COSMIC	280
+CCND2	LUAD-CHTN-MAD06-00668	p.I131=	lung	Substitution - coding silent	COSMIC	131
+CCND2	TCGA-EE-A3J7-06	p.F44=	skin	Substitution - coding silent	COSMIC	44
+CCND2	T4525	p.V240L	large_intestine	Substitution - Missense	COSMIC	240
+CCND2	PD4267a	p.?	breast	Unknown	COSMIC	NA
+CCND2	C0089T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	T_CCA_TH_1	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	I2L-P19Tb-Tumor-Organoid	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	TNKTL16	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	342C	p.E73K	thyroid	Substitution - Missense	COSMIC	73
+CCND2	U87	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	ITNET_0797_T	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	CPCG0545-F1	p.?	prostate	Unknown	COSMIC	NA
+CCND2	PD13603a	p.?	breast	Unknown	COSMIC	NA
+CCND2	H820	p.I131V	lung	Substitution - Missense	COSMIC	131
+CCND2	T378	p.I202=	large_intestine	Substitution - coding silent	COSMIC	202
+CCND2	8036161	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	0085_CRUK_PC_0085_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	PD24206a	p.?	breast	Unknown	COSMIC	NA
+CCND2	ESCC07-T1	p.R36S	oesophagus	Substitution - Missense	COSMIC	36
+CCND2	HCC62T	p.S200L	liver	Substitution - Missense	COSMIC	200
+CCND2	CHG-100T	p.?	liver	Unknown	COSMIC	NA
+CCND2	RK002_C	p.?	liver	Unknown	COSMIC	NA
+CCND2	Y1CJGK	p.E219*	thyroid	Substitution - Nonsense	COSMIC	219
+CCND2	GC_351T-GC_351N	p.?	stomach	Unknown	COSMIC	NA
+CCND2	ESO-007	p.I211=	oesophagus	Substitution - coding silent	COSMIC	211
+CCND2	T_CCA_SG_3	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	DA16038	p.?	endometrium	Unknown	COSMIC	NA
+CCND2	HKNPC-043-Tumor-SM-64MGB	p.C72=	upper_aerodigestive_tract	Substitution - coding silent	COSMIC	72
+CCND2	RK141_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	PCSI_0528_Pa_P_526	p.K111N	pancreas	Substitution - Missense	COSMIC	111
+CCND2	17T	p.?	liver	Unknown	COSMIC	NA
+CCND2	SJHGG018_D	p.D283del	central_nervous_system	Deletion - In frame	COSMIC	283
+CCND2	AOCS-152-1-X	p.?	ovary	Unknown	COSMIC	NA
+CCND2	RK121_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	AOCS-139-6-3	p.?	ovary	Unknown	COSMIC	NA
+CCND2	05-165K5	p.?	prostate	Unknown	COSMIC	NA
+CCND2	107550	p.I131M	breast	Substitution - Missense	COSMIC	131
+CCND2	8068564	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	8031121	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	05-165O	p.?	prostate	Unknown	COSMIC	NA
+CCND2	T_CCA_TH_4	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	T_CCA_JP_3	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	RK059_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	AOCS-095-3-1	p.?	ovary	Unknown	COSMIC	NA
+CCND2	TCGA-EE-A3AA-06	p.I202=	skin	Substitution - coding silent	COSMIC	202
+CCND2	T84	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	297-01-1TD	p.P281R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	281
+CCND2	AOCS-141-8-0	p.?	ovary	Unknown	COSMIC	NA
+CCND2	2014_Lung_sq_61_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	AOCS-159-1-9	p.?	ovary	Unknown	COSMIC	NA
+CCND2	T_CCA_JP_6	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	2017_AML_04_T	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	SS6003137	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	XHDG04	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	T_CCA_CH_8	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	PD11345a	p.?	breast	Unknown	COSMIC	NA
+CCND2	T_CCA_SG_20	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	T_CCA_SG_19	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	LP6005334-DNA_E03	p.E274*	oesophagus	Substitution - Nonsense	COSMIC	274
+CCND2	PD4953a	p.?	breast	Unknown	COSMIC	NA
+CCND2	1059-01-01TD	p.T280I	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	AOCS-064-3-3	p.?	ovary	Unknown	COSMIC	NA
+CCND2	8057574	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	AOCS-162-1-1	p.?	ovary	Unknown	COSMIC	NA
+CCND2	PD11359a	p.?	breast	Unknown	COSMIC	NA
+CCND2	LP6007438-DNA_A01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	HX13T	p.?	liver	Unknown	COSMIC	NA
+CCND2	LN229	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	2014_Lung_sq_63_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	DN120A6	p.?	breast	Unknown	COSMIC	NA
+CCND2	HCC123T	p.?	liver	Unknown	COSMIC	NA
+CCND2	DM2	p.S257N	skin	Substitution - Missense	COSMIC	257
+CCND2	RK140_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	TCGA-EB-A3Y7-01	p.Q263=	skin	Substitution - coding silent	COSMIC	263
+CCND2	DN12101	p.?	breast	Unknown	COSMIC	NA
+CCND2	RK065_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	CN-AML-NR-13-Dx	p.T280N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	855-01-6TD	p.P281R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	281
+CCND2	SH-7166	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	T_CCA_JP_4	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	DA16037	p.?	endometrium	Unknown	COSMIC	NA
+CCND2	LP6005935-DNA_D01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	T_CCA_SG_8	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	SW620	p.V284M	large_intestine	Substitution - Missense	COSMIC	284
+CCND2	EOPC-035_tumor_01	p.?	prostate	Unknown	COSMIC	NA
+CCND2	PD2163a	p.R262L	kidney	Substitution - Missense	COSMIC	262
+CCND2	U373	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	T3181	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	LP6005935-DNA_F01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	DM28	p.D217Y	skin	Substitution - Missense	COSMIC	217
+CCND2	8057726	p.T190I	pancreas	Substitution - Missense	COSMIC	190
+CCND2	TCGA-EE-A2MF-06	p.Q249=	skin	Substitution - coding silent	COSMIC	249
+CCND2	0065_CRUK_PC_0065_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	2694809	p.V91F	breast	Substitution - Missense	COSMIC	91
+CCND2	SH-3458	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	PCSI_0588_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	HX35T	p.?	liver	Unknown	COSMIC	NA
+CCND2	RK053_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	PCSI_0329_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	TCGA-60-2710-01	p.I131=	lung	Substitution - coding silent	COSMIC	131
+CCND2	797T	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	RPMI-8226	p.Q265*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	265
+CCND2	DN15030	p.?	breast	Unknown	COSMIC	NA
+CCND2	012-02-1TD	p.P281R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	281
+CCND2	SH-1439	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	RKO	p.A195=	large_intestine	Substitution - coding silent	COSMIC	195
+CCND2	3N56-VS-3T56	p.C242R	oesophagus	Substitution - Missense	COSMIC	242
+CCND2	PATKWU	p.R266C	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	266
+CCND2	AOCS-135-3-1	p.?	ovary	Unknown	COSMIC	NA
+CCND2	HCC62	p.S200L	liver	Substitution - Missense	COSMIC	200
+CCND2	U343	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	CPCG0551-F1	p.?	prostate	Unknown	COSMIC	NA
+CCND2	TARGET-10-PARJSR-09A-02D	p.L289P	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	289
+CCND2	9-2	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	CN-AML-32-T	p.T280N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	RK308_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	PD4956a	p.?	breast	Unknown	COSMIC	NA
+CCND2	0225_CRUK_PC_0225_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	tumor_4105105	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	PD4006a	p.?	breast	Unknown	COSMIC	NA
+CCND2	0025_CRUK_PC_0025_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	LP6007594	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	A-2A	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	2014_Lung_sq_16_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	S02378_1	p.K234M	lung	Substitution - Missense	COSMIC	234
+CCND2	CHC2443T	p.?	liver	Unknown	COSMIC	NA
+CCND2	tumor_4133263	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	ICGC_MB261	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	P30	p.T280A	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	ESO-717	p.C46Y	oesophagus	Substitution - Missense	COSMIC	46
+CCND2	PCSI_0109_Pa_P	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	PCSI_0015_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	TCGA-EE-A3AA-06	p.P92=	skin	Substitution - coding silent	COSMIC	92
+CCND2	PCSI_0355_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	266T	p.?	liver	Unknown	COSMIC	NA
+CCND2	RK102_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	J30_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	SH-3133	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	XHDG35	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	C0016T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	TCGA-B8-5551-01	p.F192=	kidney	Substitution - coding silent	COSMIC	192
+CCND2	tumor_4116738	p.A195G	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	195
+CCND2	0082_CRUK_PC_0082_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	PD7067a	p.?	breast	Unknown	COSMIC	NA
+CCND2	SM-4B295	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	PD11748a	p.?	breast	Unknown	COSMIC	NA
+CCND2	EOPC-091_tumor_01	p.?	prostate	Unknown	COSMIC	NA
+CCND2	YUDIVI	p.E65K	skin	Substitution - Missense	COSMIC	65
+CCND2	254891	p.E65Q	lung	Substitution - Missense	COSMIC	65
+CCND2	AOCS-139-19-0	p.?	ovary	Unknown	COSMIC	NA
+CCND2	C0078T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	105T	p.?	liver	Unknown	COSMIC	NA
+CCND2	RK028_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	PD8996a	p.?	breast	Unknown	COSMIC	NA
+CCND2	TARGET-20-PAPWHS-09A-03D	p.T280N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	T4430	p.D283=	large_intestine	Substitution - coding silent	COSMIC	283
+CCND2	381_T	p.R262C	lung	Substitution - Missense	COSMIC	262
+CCND2	BD184T	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	SH-1362	p.?	soft_tissue	Unknown	COSMIC	NA
+CCND2	0136_CRUK_PC_0136_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	0031_CRUK_PC_0031_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	PD11368a	p.?	breast	Unknown	COSMIC	NA
+CCND2	8034252	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	YYY-674T	p.?	stomach	Unknown	COSMIC	NA
+CCND2	2748747	p.*290Rext*13	biliary_tract	Nonstop extension	COSMIC	290
+CCND2	188T	p.V240M	stomach	Substitution - Missense	COSMIC	240
+CCND2	PCSI_0109_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	TARGET-20-PASHBI-09A-01D	p.Q277*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	277
+CCND2	CPCG0458-F1	p.T204S	prostate	Substitution - Missense	COSMIC	204
+CCND2	T_CCA_RO_1	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	PD5935a	p.?	breast	Unknown	COSMIC	NA
+CCND2	RK079_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	1293T	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	SH-4435	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	B1-CaA	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	SWE-1C	p.?	prostate	Unknown	COSMIC	NA
+CCND2	SH-3776	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	LN18	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	EOPC-164_tumor_01	p.?	prostate	Unknown	COSMIC	NA
+CCND2	TCGA-AZ-6598-01	p.S200=	large_intestine	Substitution - coding silent	COSMIC	200
+CCND2	YYY-274T	p.?	stomach	Unknown	COSMIC	NA
+CCND2	LP6005500-DNA_D03	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	ASHPC_0016_Pa_P	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	T335135	p.R285W	large_intestine	Substitution - Missense	COSMIC	285
+CCND2	C0039T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	SH-0348	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	CHC433T	p.?	liver	Unknown	COSMIC	NA
+CCND2	T_CCA_RO_5	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	CPCG0236-F1	p.?	prostate	Unknown	COSMIC	NA
+CCND2	PCSI_0162_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	TARGET-20-PALGKX-09A-01D	p.P281S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	281
+CCND2	DN14042	p.?	breast	Unknown	COSMIC	NA
+CCND2	SNUH_G07_S1	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	RK077_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	TCGA-78-7159-01	p.F44=	lung	Substitution - coding silent	COSMIC	44
+CCND2	PD4315a	p.?	breast	Unknown	COSMIC	NA
+CCND2	2748747	p.T204S	biliary_tract	Substitution - Missense	COSMIC	204
+CCND2	SH-3327	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	3765_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	ESCC07-T3	p.R36S	oesophagus	Substitution - Missense	COSMIC	36
+CCND2	CHG-13-08087T	p.E65=	liver	Substitution - coding silent	COSMIC	65
+CCND2	NCI-H209	p.?	lung	Unknown	COSMIC	NA
+CCND2	PD13765a	p.?	breast	Unknown	COSMIC	NA
+CCND2	PD13767a	p.?	breast	Unknown	COSMIC	NA
+CCND2	PD4882a	p.P199L	breast	Substitution - Missense	COSMIC	199
+CCND2	PCSI_0625_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	LP6005690-DNA_F02	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	LP6007533-DNA_A01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	PD18189a	p.?	breast	Unknown	COSMIC	NA
+CCND2	pros_10_dx	p.P281S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	281
+CCND2	PD4605a	p.?	breast	Unknown	COSMIC	NA
+CCND2	TCGA-22-1012-01	p.G268R	lung	Substitution - Missense	COSMIC	268
+CCND2	ATL001	p.A103T	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	103
+CCND2	538LC	p.D276E	lung	Substitution - Missense	COSMIC	276
+CCND2	CHG-13-08087T	p.?	liver	Unknown	COSMIC	NA
+CCND2	A5-2A	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	PTC_286	p.C212F	thyroid	Substitution - Missense	COSMIC	212
+CCND2	SJEPD028_D	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND2	0234_CRUK_PC_0234_T1_DNA	p.?	prostate	Unknown	COSMIC	NA
+CCND2	TCGA-BR-4201-01	p.V76=	stomach	Substitution - coding silent	COSMIC	76
+CCND2	LS411	p.D241V	large_intestine	Substitution - Missense	COSMIC	241
+CCND2	EOPC-133_tumor_01	p.?	prostate	Unknown	COSMIC	NA
+CCND2	T1225	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	695T	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	RK004_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	8070202	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	186T	p.?	liver	Unknown	COSMIC	NA
+CCND2	PD23570a	p.?	breast	Unknown	COSMIC	NA
+CCND2	RK002_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	2014_Lung_sq_100_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	PD24224a	p.?	breast	Unknown	COSMIC	NA
+CCND2	T_CCA_TH_21	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	LICA-CN-HCC_WGS_013T	p.?	liver	Unknown	COSMIC	NA
+CCND2	AOCS-064-1-6	p.?	ovary	Unknown	COSMIC	NA
+CCND2	PD14473a	p.?	breast	Unknown	COSMIC	NA
+CCND2	PD3851a	p.?	breast	Unknown	COSMIC	NA
+CCND2	RK190_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	AML_14y_07_DX	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	880-01-8TD	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	2011-2264:2012-371-T	p.?	upper_aerodigestive_tract	Unknown	COSMIC	NA
+CCND2	T_CCA_SG_14	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	DA12027	p.?	prostate	Unknown	COSMIC	NA
+CCND2	EOPC-163_tumor_01	p.?	prostate	Unknown	COSMIC	NA
+CCND2	tumor_4122063	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	T_CCA_TH_17	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	CN-AML-13-T	p.T280N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	HCT15	p.L100R	large_intestine	Substitution - Missense	COSMIC	100
+CCND2	TCGA-EE-A29E-06	p.I287=	skin	Substitution - coding silent	COSMIC	287
+CCND2	SH-1641	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	DN1201B	p.?	breast	Unknown	COSMIC	NA
+CCND2	PD7240a	p.?	breast	Unknown	COSMIC	NA
+CCND2	SH-1679	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	CN-AML-NR-32-Dx	p.T280N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	RK107_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	sysucc-1397T	p.A245D	large_intestine	Substitution - Missense	COSMIC	245
+CCND2	PD8830a	p.?	breast	Unknown	COSMIC	NA
+CCND2	PCSI_0307_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	PD5930a	p.?	breast	Unknown	COSMIC	NA
+CCND2	RK261_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	TCGA-BH-A0HF-01	p.L174=	breast	Substitution - coding silent	COSMIC	174
+CCND2	TCGA-BS-A0UV-01	p.S200=	endometrium	Substitution - coding silent	COSMIC	200
+CCND2	ML_128_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND2	8068539	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	PCSI_0083_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	1292-01-02TD	p.G268*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	268
+CCND2	T_CCA_SG_16	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	T_CCA_TH_2	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	ML_89_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND2	C0035T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	CHG-14-15016T	p.?	liver	Unknown	COSMIC	NA
+CCND2	T_CCA_SG_5	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	30T	p.?	liver	Unknown	COSMIC	NA
+CCND2	ID32	p.T280N	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	280
+CCND2	CHC205T	p.?	liver	Unknown	COSMIC	NA
+CCND2	8035603	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	SH-7032	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	PD18048a	p.?	breast	Unknown	COSMIC	NA
+CCND2	PD6410a	p.?	breast	Unknown	COSMIC	NA
+CCND2	MBC_28	p.I287=	breast	Substitution - coding silent	COSMIC	287
+CCND2	PCSI_0508_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	PD8964a	p.?	breast	Unknown	COSMIC	NA
+CCND2	ML_04_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND2	RK041_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	PCSI_0340_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	8051900	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	19T	p.?	liver	Unknown	COSMIC	NA
+CCND2	AOCS-058-1-5	p.?	ovary	Unknown	COSMIC	NA
+CCND2	ML_50_T_01	p.?	skin	Unknown	COSMIC	NA
+CCND2	AOCS-150-3-1	p.?	ovary	Unknown	COSMIC	NA
+CCND2	PD9064a	p.?	breast	Unknown	COSMIC	NA
+CCND2	AOCS-135-8-X	p.?	ovary	Unknown	COSMIC	NA
+CCND2	291-03-4TD	p.E35K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	35
+CCND2	T1212	p.Y197=	large_intestine	Substitution - coding silent	COSMIC	197
+CCND2	T3262	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	HCT-15	p.L100R	large_intestine	Substitution - Missense	COSMIC	100
+CCND2	PD24220a	p.?	breast	Unknown	COSMIC	NA
+CCND2	T3422	p.?	large_intestine	Unknown	COSMIC	NA
+CCND2	ZLH-218T	p.?	stomach	Unknown	COSMIC	NA
+CCND2	SW620	p.R285=	large_intestine	Substitution - coding silent	COSMIC	285
+CCND2	TNKTL23	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND2	ZZUFHECRKL-G052T	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	T_CCA_SG_2	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	8058336	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	PGBM03PT	p.K146R	central_nervous_system	Substitution - Missense	COSMIC	146
+CCND2	SH-9248	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	DN1121A	p.?	breast	Unknown	COSMIC	NA
+CCND2	8031073	p.S200=	pancreas	Substitution - coding silent	COSMIC	200
+CCND2	T_CCA_JP_7	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	8062308	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	RK046_C02	p.?	liver	Unknown	COSMIC	NA
+CCND2	PD7243a	p.?	breast	Unknown	COSMIC	NA
+CCND2	RK087_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	AOCS-092-3-3	p.?	ovary	Unknown	COSMIC	NA
+CCND2	154T	p.?	liver	Unknown	COSMIC	NA
+CCND2	AML_14y_09_DX	p.V284E	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND2	PD8977a	p.A210=	breast	Substitution - coding silent	COSMIC	210
+CCND2	SH-9161	p.T190=	soft_tissue	Substitution - coding silent	COSMIC	190
+CCND2	PCSI_0240_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	ESCC07-T2	p.R36S	oesophagus	Substitution - Missense	COSMIC	36
+CCND2	AOCS-141-3-2	p.?	ovary	Unknown	COSMIC	NA
+CCND2	YUMUL	p.R171Q	skin	Substitution - Missense	COSMIC	171
+CCND2	475-02-10TD	p.P281T	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	281
+CCND2	H1435	p.G213W	lung	Substitution - Missense	COSMIC	213
+CCND2	PD4604a	p.?	breast	Unknown	COSMIC	NA
+CCND2	BZ04	p.?	bone	Unknown	COSMIC	NA
+CCND2	C0061T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	J87_T	p.?	lung	Unknown	COSMIC	NA
+CCND2	05-165M1	p.?	prostate	Unknown	COSMIC	NA
+CCND2	RK125_C01	p.?	liver	Unknown	COSMIC	NA
+CCND2	LP6007427-DNA_A01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND2	AOCS-125-1-2	p.?	ovary	Unknown	COSMIC	NA
+CCND2	2014_Lung_sq_39_T	p.R262C	lung	Substitution - Missense	COSMIC	262
+CCND2	T_CCA_SG_4	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND2	C0085T	p.?	kidney	Unknown	COSMIC	NA
+CCND2	PD7316a	p.?	breast	Unknown	COSMIC	NA
+CCND2	AOCS-106-1-1	p.?	ovary	Unknown	COSMIC	NA
+CCND2	CHG-13-29153T	p.?	liver	Unknown	COSMIC	NA
+CCND2	PT35	p.R86C	skin	Substitution - Missense	COSMIC	86
+CCND2	8032817	p.?	pancreas	Unknown	COSMIC	NA
+CCND2	PCSI_0230_Pa_P_526	p.?	pancreas	Unknown	COSMIC	NA
+CCND3	W28T	p.S262I	thyroid	Substitution - Missense	COSMIC	262
+CCND3	99-25549	p.Q276*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	276
+CCND3	HCC28T	p.?	liver	Unknown	COSMIC	NA
+CCND3	tumor_4178310	p.D286G	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	286
+CCND3	AOCS-150-8-X	p.?	ovary	Unknown	COSMIC	NA
+CCND3	37_tFL	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	HUB-02-B2-042	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	PATGZA	p.S259Vfs*65	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	259
+CCND3	tumor_4194218	p.P284L	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	PTC_455	p.E7*	thyroid	Substitution - Nonsense	COSMIC	7
+CCND3	TCGA-YC-A89H-01	p.?	urinary_tract	Unknown	COSMIC	NA
+CCND3	tumor_4176133	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	PD7316a	p.?	breast	Unknown	COSMIC	NA
+CCND3	sysucc-1422T	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	0060_CRUK_PC_0060_T1_DNA	p.D238N	prostate	Substitution - Missense	COSMIC	238
+CCND3	ATL010	p.Q260*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	260
+CCND3	SH-102782	p.N83=	soft_tissue	Substitution - coding silent	COSMIC	83
+CCND3	HX11T	p.?	liver	Unknown	COSMIC	NA
+CCND3	2209	p.I290K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	QC2-25-T2	p.Q276*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	276
+CCND3	CHG-13-29153T	p.?	liver	Unknown	COSMIC	NA
+CCND3	T3262	p.R271Gfs*33	large_intestine	Deletion - Frameshift	COSMIC	271
+CCND3	CCC4	p.V77=	liver	Substitution - coding silent	COSMIC	77
+CCND3	T3090	p.R271Pfs*53	large_intestine	Insertion - Frameshift	COSMIC	271
+CCND3	T613	p.G272Afs*32	large_intestine	Deletion - Frameshift	COSMIC	272
+CCND3	sysucc-1143T	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	TCGA-A2-A0CP-01	p.Y38Sfs*45	breast	Deletion - Frameshift	COSMIC	38
+CCND3	Thyroid-CN-WZ037T	p.A266E	thyroid	Substitution - Missense	COSMIC	266
+CCND3	TCGA-A2-A0CP-01	p.R33Hfs*51	breast	Insertion - Frameshift	COSMIC	33
+CCND3	AWF5JG	p.M220V	thyroid	Substitution - Missense	COSMIC	220
+CCND3	B37-Tumor	p.S259A	urinary_tract	Substitution - Missense	COSMIC	259
+CCND3	tumor_4178518	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	2492721	p.E51*	skin	Substitution - Nonsense	COSMIC	51
+CCND3	TCGA-D8-A1JA-01	p.L255=	breast	Substitution - coding silent	COSMIC	255
+CCND3	TCGA-DK-A3X1-01	p.?	urinary_tract	Unknown	COSMIC	NA
+CCND3	OSCC-GB_00880111	p.R37S	upper_aerodigestive_tract	Substitution - Missense	COSMIC	37
+CCND3	08-21175	p.Q276*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	276
+CCND3	SH-7282	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	PTC-28C	p.S259A	thyroid	Substitution - Missense	COSMIC	259
+CCND3	FL007	p.P284L	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	CHG-2013-27553T	p.M220T	liver	Substitution - Missense	COSMIC	220
+CCND3	PATWIJ	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	tumor_4125240	p.I290K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	H2228	p.E253D	lung	Substitution - Missense	COSMIC	253
+CCND3	TCGA-A8-A06O-01	p.?	breast	Unknown	COSMIC	NA
+CCND3	SH-5693	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	HCC87T	p.?	liver	Unknown	COSMIC	NA
+CCND3	W16T	p.A266E	thyroid	Substitution - Missense	COSMIC	266
+CCND3	SH-0348	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	SH-2871	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	12_tFL	p.Q276*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	276
+CCND3	tumor_4189998	p.A289Pfs*32	haematopoietic_and_lymphoid_tissue	Complex - frameshift	COSMIC	289
+CCND3	tumor_4164943	p.V287D	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	287
+CCND3	T3610	p.I121M	large_intestine	Substitution - Missense	COSMIC	121
+CCND3	06-33777	p.V287D	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	287
+CCND3	T3118	p.A153T	large_intestine	Substitution - Missense	COSMIC	153
+CCND3	tumor_4127766	p.I290K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	PASSSR	p.P265_S274del	haematopoietic_and_lymphoid_tissue	Deletion - In frame	COSMIC	265
+CCND3	T_CCA_CH_5	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND3	PATWXC	p.E245K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	245
+CCND3	SH-6055	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	06-30145	p.I290R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	SH-3133	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	B112	p.R50=	urinary_tract	Substitution - coding silent	COSMIC	50
+CCND3	8031133	p.P284S	pancreas	Substitution - Missense	COSMIC	284
+CCND3	Thyroid-CN-WZ042T	p.S262I	thyroid	Substitution - Missense	COSMIC	262
+CCND3	SH-3458	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	tumor_4190784	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	LN229	p.?	central_nervous_system	Unknown	COSMIC	NA
+CCND3	ORL-174	p.A131V	upper_aerodigestive_tract	Substitution - Missense	COSMIC	131
+CCND3	tumor_4100049	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND3	2492720	p.E51*	skin	Substitution - Nonsense	COSMIC	51
+CCND3	TCGA-A2-A0CP-01	p.E36Dfs*34	breast	Insertion - Frameshift	COSMIC	36
+CCND3	AOCS-150-3-1	p.?	ovary	Unknown	COSMIC	NA
+CCND3	tumor_4110996	p.R256Sfs*64	haematopoietic_and_lymphoid_tissue	Deletion - Frameshift	COSMIC	256
+CCND3	PATLHS	p.L251Gfs*55	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	251
+CCND3	In-2	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	2748728	p.P284S	biliary_tract	Substitution - Missense	COSMIC	284
+CCND3	2163	p.P284S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	LP6007514-DNA_A01	p.?	oesophagus	Unknown	COSMIC	NA
+CCND3	tumor_4121974	p.P284S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	PATSLH	p.M202T	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	202
+CCND3	GHE0988	p.Q260Pfs*41	haematopoietic_and_lymphoid_tissue	Deletion - Frameshift	COSMIC	260
+CCND3	TARGET-20-PANSJB-09A-01D	p.Q276Rfs*29	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	276
+CCND3	TARGET-20-PARUBT-04A-01D	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	tumor_4144951	p.I290T	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	PA202	p.S259A	pancreas	Substitution - Missense	COSMIC	259
+CCND3	tumor_4144633	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	Pat_32_B	p.T205M	NS	Substitution - Missense	COSMIC	205
+CCND3	T3503	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	TCGA-CJ-4916-01	p.T235=	kidney	Substitution - coding silent	COSMIC	235
+CCND3	2492722	p.E51*	skin	Substitution - Nonsense	COSMIC	51
+CCND3	PCSI_0112_Pa_P	p.L215M	pancreas	Substitution - Missense	COSMIC	215
+CCND3	HKNPC-065-Tumor-SM-7CK9B	p.V237=	upper_aerodigestive_tract	Substitution - coding silent	COSMIC	237
+CCND3	SH-1362	p.E253D	soft_tissue	Substitution - Missense	COSMIC	253
+CCND3	TCGA-BR-4184-01	p.A187T	stomach	Substitution - Missense	COSMIC	187
+CCND3	8057501	p.?	pancreas	Unknown	COSMIC	NA
+CCND3	PD_09	p.P267L	skin	Substitution - Missense	COSMIC	267
+CCND3	S00941_1	p.P171A	lung	Substitution - Missense	COSMIC	171
+CCND3	RK214_C01	p.?	liver	Unknown	COSMIC	NA
+CCND3	T2936	p.Q100=	large_intestine	Substitution - coding silent	COSMIC	100
+CCND3	tumor_4186812	p.S279Pfs*46	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	279
+CCND3	PATXAL	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	AOCS-146-1-9	p.?	ovary	Unknown	COSMIC	NA
+CCND3	TARGET-20-PASTUH-04A-01D	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	2653772	p.R167L	pancreas	Substitution - Missense	COSMIC	167
+CCND3	T3091	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	2619730	p.P199S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	199
+CCND3	tumor_4156551	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	IGC-01-1037	p.G8=	lung	Substitution - coding silent	COSMIC	8
+CCND3	ccRCC-33	p.E74D	kidney	Substitution - Missense	COSMIC	74
+CCND3	2619727	p.P199S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	199
+CCND3	TCGA-B5-A0K9-01	p.R72S	endometrium	Substitution - Missense	COSMIC	72
+CCND3	2014_Lung_sq_05_T	p.L225=	lung	Substitution - coding silent	COSMIC	225
+CCND3	tumor_4130003	p.A266Vfs*42	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	266
+CCND3	TCGA-XF-AAMG-01	p.V178=	urinary_tract	Substitution - coding silent	COSMIC	178
+CCND3	2619729	p.P199S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	199
+CCND3	SPEC1120	p.T283P	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	283
+CCND3	SH-1362	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	TCGA-A2-A0CP-01	p.E35Gfs*48	breast	Deletion - Frameshift	COSMIC	35
+CCND3	PD_09	p.P267=	skin	Substitution - coding silent	COSMIC	267
+CCND3	I2L-P19Tb-Tumor-Biopsy	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	SH-102782	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	AB	p.R33P	breast	Substitution - Missense	COSMIC	33
+CCND3	SH-9161	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	5-2A	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	PATKVD	p.R252Efs*72	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	252
+CCND3	PATRXL	p.E248Gfs*77	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	248
+CCND3	2075	p.Q260*	haematopoietic_and_lymphoid_tissue	Substitution - Nonsense	COSMIC	260
+CCND3	sysucc-826T	p.V144=	large_intestine	Substitution - coding silent	COSMIC	144
+CCND3	cSCCP7	p.R172C	skin	Substitution - Missense	COSMIC	172
+CCND3	ATL075	p.P284T	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	TCGA-B5-A0JY-01	p.Q71=	endometrium	Substitution - coding silent	COSMIC	71
+CCND3	SH-3327	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	tumor_4124542	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND3	SH-7032	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	QC2-03-T2	p.I290R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	2492723	p.E51*	skin	Substitution - Nonsense	COSMIC	51
+CCND3	SC_9099	p.C91=	prostate	Substitution - coding silent	COSMIC	91
+CCND3	PATHBG	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	RG06	p.P284S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	W10T	p.Q46*	thyroid	Substitution - Nonsense	COSMIC	46
+CCND3	PASNTZ	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	tumor_4170844	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	44_tFL	p.I290R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	SH-3776	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	IGC-12-1136	p.G16R	lung	Substitution - Missense	COSMIC	16
+CCND3	MO_1410	p.?	prostate	Unknown	COSMIC	NA
+CCND3	tumor_4182605	p.P267Afs*30	haematopoietic_and_lymphoid_tissue	Deletion - Frameshift	COSMIC	267
+CCND3	PTC_455	p.R10L	thyroid	Substitution - Missense	COSMIC	10
+CCND3	RK059_C01	p.?	liver	Unknown	COSMIC	NA
+CCND3	AOCS-142-3-5	p.?	ovary	Unknown	COSMIC	NA
+CCND3	PD8830a	p.?	breast	Unknown	COSMIC	NA
+CCND3	SH-4435	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	B112-Tumor	p.R50=	urinary_tract	Substitution - coding silent	COSMIC	50
+CCND3	tumor_4163741	p.S254Kfs*51	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	254
+CCND3	tumor_4198519	p.?	haematopoietic_and_lymphoid_tissue	Unknown	COSMIC	NA
+CCND3	SH-7166	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	SH-1641	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	TARGET-20-PARUBT-09A-02D	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	sysucc-1213T	p.R167W	large_intestine	Substitution - Missense	COSMIC	167
+CCND3	BL3	p.I290K	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	CHG-14-15347T	p.?	liver	Unknown	COSMIC	NA
+CCND3	SH-1679	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	Thyroid-CN-WZ034T	p.Q46*	thyroid	Substitution - Nonsense	COSMIC	46
+CCND3	QC2-20-T2	p.I290R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	290
+CCND3	B86-Tumor	p.V155=	urinary_tract	Substitution - coding silent	COSMIC	155
+CCND3	LUAD-RT-S01711	p.L80=	lung	Substitution - coding silent	COSMIC	80
+CCND3	tumor_4122063	p.P284L	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	284
+CCND3	6115224	p.?	prostate	Unknown	COSMIC	NA
+CCND3	I2L-P19Tb-Tumor-Organoid	p.?	large_intestine	Unknown	COSMIC	NA
+CCND3	SH-8559	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	PATMYZ	p.R271Pfs*53	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	271
+CCND3	BD114T	p.?	biliary_tract	Unknown	COSMIC	NA
+CCND3	1058	p.V92=	urinary_tract	Substitution - coding silent	COSMIC	92
+CCND3	PD11752a	p.?	breast	Unknown	COSMIC	NA
+CCND3	CCC4T	p.V77=	liver	Substitution - coding silent	COSMIC	77
+CCND3	SH-1439	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	SH-1679	p.L228=	soft_tissue	Substitution - coding silent	COSMIC	228
+CCND3	KPOPBR-083-T	p.S259A	breast	Substitution - Missense	COSMIC	259
+CCND3	DM28	p.T184=	skin	Substitution - coding silent	COSMIC	184
+CCND3	tumor_4190316	p.A266Vfs*42	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	266
+CCND3	ORL-166	p.S169F	upper_aerodigestive_tract	Substitution - Missense	COSMIC	169
+CCND3	PATKWU	p.E248Gfs*63	haematopoietic_and_lymphoid_tissue	Insertion - Frameshift	COSMIC	248
+CCND3	TCGA-G2-A3IB-01	p.?	urinary_tract	Unknown	COSMIC	NA
+CCND3	tumor_4162611	p.T283P	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	283
+CCND3	38_tFL	p.V287G	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	287
+CCND3	PTC-10C	p.R14W	thyroid	Substitution - Missense	COSMIC	14
+CCND3	SH-9248	p.S259A	soft_tissue	Substitution - Missense	COSMIC	259
+CCND3	P-92-6393-Tumor-SM-7CKB6	p.D173A	upper_aerodigestive_tract	Substitution - Missense	COSMIC	173
+CCND3	PAUAZV	p.C239R	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	239
+CCND3	NYZ-1300409T	p.?	stomach	Unknown	COSMIC	NA
+CCND3	2619731	p.P199S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	199
+CCND3	2619728	p.P199S	haematopoietic_and_lymphoid_tissue	Substitution - Missense	COSMIC	199
+CCND3	SPECS1200	p.P284fs	ABC DLBCL	NA	BL_Nature_2012	284
+CCND3	SLN668	p.R252fs	ABC DLBCL	NA	BL_Nature_2012	252
+CCND3	SPECS1115	p.R271fs	ABC DLBCL	NA	BL_Nature_2012	271
+CCND3	SPECS2491	p.R271fs	ABC DLBCL	NA	BL_Nature_2012	271
+CCND3	SPECS1292	p.S273fs	ABC DLBCL	NA	BL_Nature_2012	273
+CCND3	SPECS1704	p.V287fs	ABC DLBCL	NA	BL_Nature_2012	287
+CCND3	SPECS2488	p.I290K	ABC DLBCL	NA	BL_Nature_2012	290
+CCND3	SPECS2504	p.I290R	ABC DLBCL	NA	BL_Nature_2012	290
+CCND3	SLN541	p.L292G	ABC DLBCL	NA	BL_Nature_2012	292
+CCND3	SPECS1241	p.Q260*	ABC DLBCL	NA	BL_Nature_2012	260
+CCND3	SLN1059	p.Q260*	ABC DLBCL	NA	BL_Nature_2012	260
+CCND3	SPECS2641	p.Q276*	ABC DLBCL	NA	BL_Nature_2012	276
+CCND3	SPECS103	p.Q276*	ABC DLBCL	NA	BL_Nature_2012	276
+CCND3	SPECS104	p.Q276*	ABC DLBCL	NA	BL_Nature_2012	276
+CCND3	SPECS1098	p.T283A	ABC DLBCL	NA	BL_Nature_2012	283
+CCND3	SPECS1167	p.T283A	ABC DLBCL	NA	BL_Nature_2012	283
+CCND3	SPECS2503	p.T283N	ABC DLBCL	NA	BL_Nature_2012	283
+CCND3	SPECS1120	p.T283P	ABC DLBCL	NA	BL_Nature_2012	283
+CCND3	SPECS1705	p.[T283P]	ABC DLBCL	NA	BL_Nature_2012	283
+CCND3	BL70	p.K268fs	BL	NA	BL_Nature_2012	268
+CCND3	DG75	p.S273fs	BL	NA	BL_Nature_2012	273
+CCND3	SPECS3539	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2433	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2268	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2391	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2418	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2432	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2530	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2540	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN654	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN871	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SPECS3411	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SPECS3422	p.R271fs	BL	NA	BL_Nature_2012	271
+CCND3	SLN2402	p.Q260fs	BL	NA	BL_Nature_2012	260
+CCND3	BL41	p.S259fs	BL	NA	BL_Nature_2012	259
+CCND3	SLN2037	p.S282fs	BL	NA	BL_Nature_2012	282
+CCND3	Thomas	p.P284L	BL	NA	BL_Nature_2012	284
+CCND3	SLN2395	p.P284R	BL	NA	BL_Nature_2012	284
+CCND3	SPECS3536	p.P284S	BL	NA	BL_Nature_2012	284
+CCND3	SLN2520	p.Q276*	BL	NA	BL_Nature_2012	276
+CCND3	SPECS3497	p.Q276*	BL	NA	BL_Nature_2012	276
+CCND3	SPECS1104	p.[Q280*]	mBL reviewed asDLBCL	NA	BL_Nature_2012	280
+CCND3	SLN2472	p.[S274T(	BL	NA	BL_Nature_2012	274
+CCND3	SLN2472	)T283A(	BL	NA	BL_Nature_2012	283
+CCND3	SLN2472	)I290K] 	BL	NA	BL_Nature_2012	290
+CCND3	SLN2406	p.T283A	BL	NA	BL_Nature_2012	283
+CCND3	SPECS3541	p.T283A	BL	NA	BL_Nature_2012	283
+CCND3	Gumbus	p.T283A	BL	NA	BL_Nature_2012	283
+CCND3	SLN2091	p.V287D	BL	NA	BL_Nature_2012	287
+CCND3	Tiyo	p.R271fs	eBL	NA	BL_Nature_2012	271
+CCND3	HP8788	p.P284del	BL HIV+	NA	BL_Nature_2012	284
+CCND3	SS07-4696	p.I290K	BL HIV+	NA	BL_Nature_2012	290
+CCND3	HP8556	p.I290T	BL HIV+	NA	BL_Nature_2012	290
+CCND3	SS06-4791	p.P284L	BL HIV+	NA	BL_Nature_2012	284
+CCND3	HP8910	p.T283A	BL HIV+	NA	BL_Nature_2012	283
+CCND3	SS01-0408	p.T283I	BL HIV+	NA	BL_Nature_2012	283
+CCND3	SLN1432	p.T283P	FL	NA	BL_Nature_2012	283
+CCND3	SLN537	p.T283fs	GCB DLBCL	NA	BL_Nature_2012	283
+CCND3	SPECS2513	p.A269fs	GCB DLBCL	NA	BL_Nature_2012	269
+CCND3	SPECS1707	p.P284fs	GCB DLBCL	NA	BL_Nature_2012	284
+CCND3	SLN438	p.R271fs	GCB DLBCL	NA	BL_Nature_2012	271
+CCND3	SLN447	p.R271fs	GCB DLBCL	NA	BL_Nature_2012	271
+CCND3	SPECS2599	p.R271fs	GCB DLBCL	NA	BL_Nature_2012	271
+CCND3	SPECS96	p.I290K	GCB DLBCL	NA	BL_Nature_2012	290
+CCND3	SPECS1173	p.I290R	GCB DLBCL	NA	BL_Nature_2012	290
+CCND3	SLN1009	p.I290R	GCB DLBCL	NA	BL_Nature_2012	290
+CCND3	DoHH2	p.I290T	GCB DLBCL	NA	BL_Nature_2012	290
+CCND3	SLN470	p.[P284L](	GCB DLBCL	NA	BL_Nature_2012	284
+CCND3	SLN648	p.P284T	GCB DLBCL	NA	BL_Nature_2012	284
+CCND3	SLN556	p.Q276*	GCB DLBCL	NA	BL_Nature_2012	276
+CCND3	LY4	p.Q276*	GCB DLBCL	NA	BL_Nature_2012	276
+CCND3	OYB	p.Q280*	GCB DLBCL	NA	BL_Nature_2012	280
