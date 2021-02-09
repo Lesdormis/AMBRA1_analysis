@@ -2,9 +2,10 @@ library(survival)
 library(survminer)
 library(dplyr)
 library(ggplot2)
+library(openxlsx)
 options(stringsAsFactors = F)
-lenz <- read.csv("Lenz_surv.csv")
-stank <- read.csv("Stanke_surv.csv")
+lenz <- read.xlsx("../Extended Data Figure 10.xlsx",sheet = 1)
+stank <- read.xlsx("../Extended Data Figure 10.xlsx",sheet = 2)
 # scale each expression on each cohort
 lenz$AMBRA1 <- scale(lenz$AMBRA1)
 
@@ -13,7 +14,7 @@ cn <- c("GEO_ID","Surv_status","surv_years","AMBRA1")
 
 colnames(stank) <- cn; colnames(lenz) <- cn
 
-pdf("Fig4d.pdf")
+pdf("Ext_Fig10d.pdf")
   q = 0.1
   # lenz
   qua = quantile(lenz[,"AMBRA1"],c(q,1-q)) 

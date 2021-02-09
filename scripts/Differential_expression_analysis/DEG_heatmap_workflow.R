@@ -13,8 +13,8 @@ annotate_col <- data.frame(sample = rep(c("AMBRA1_Dele","AMBRA1_Mut","CCND3_Mut"
 rownames(annotate_col) <- c(ambra_del,ambra_mut,ccnd3_mut,ccnd3_amp,rest_sample)
 color_annotation = list(sample = c(AMBRA1_Dele = "red",AMBRA1_Mut = "purple",CCND3_Mut = "blue",CCND3_Amp = "green",rest_samples = "white"))
 
-hp_df_log_z_fix = read.xlsx("../Figure 4.xlsx",sheet = 4,rowNames = T)
+hp_df_log_z_fix = read.xlsx("../Extended Data Figure 10.xlsx",sheet = 3,rowNames = T)
 ph <- pheatmap(hp_df_log_z_fix, color = cell_colors, cluster_rows = F, cluster_cols = T, 
                border_color = NA, fontsize_row = 1.2, fontsize_col = 1, 
                fontsize = 8, show_rownames =T,show_colnames = F, scale = "none",
-               annotation_col = annotate_col,annotation_colors = color_annotation[1],filename = "Fig4e.pdf")
+               annotation_col = annotate_col,annotation_colors = color_annotation[1],filename = "Ext_Fig10f.pdf")

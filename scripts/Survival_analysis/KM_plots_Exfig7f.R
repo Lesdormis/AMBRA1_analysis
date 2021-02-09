@@ -4,8 +4,9 @@ library(survminer)
 library(dplyr)
 library(ggplot2)
 library(openxlsx)
-survplot_table = read.csv("survplot_table_TCGAPAN.csv")
-
+survplot_table = read.xlsx("../Extended Data Figure 7.xlsx",sheet = 5)[,1:5]
+colnames(survplot_table) <- c("TCGA_patient","AMBRA1","CANCER_TYPE_ACRONYM",
+                              "Overall.Survival.years","Surv_status")
 fisherIntegration  <- function (vector){
   my_length=length(vector)
   deg_free=my_length*2
@@ -78,7 +79,7 @@ fisher.p_02 = fisherIntegration(p_table$high_0.8_vs_low_0.2)[2]
 
 # overall survival
 # 0.5 quantile
-pdf(file = "Ext_fig7f.pdf",width = 7,height = 7)
+pdf(file = "Ext_fig7f_5050.pdf",width = 7,height = 7)
 q = 0.5
 qua = quantile(filt_survplot_table[,"AMBRA1"],c(0.5,0.5)) 
 df <- filt_survplot_table
@@ -100,7 +101,7 @@ dev.off()
 # write.xlsx(filt_survplot_table, file = paste0("number_cutoff",n.cutoff,"_OS_survtable_5050.xlsx"))
 
 # 0.2 0.8 quantile
-pdf(file = "Fig4b.pdf",width = 7,height = 7)
+pdf(file = "Ext_fig7f_2080.pdf",width = 7,height = 7)
 q = 0.2
 qua = quantile(filt_survplot_table[,"AMBRA1"],c(0.2,0.8)) 
 df <- filt_survplot_table
